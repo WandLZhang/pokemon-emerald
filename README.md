@@ -26,11 +26,15 @@ changes below may have been undone with it.
 | 1 | Kate | Combusken | 17 | Has Double Kick (learned at 16). Bulk Up comes free at 28 |
 | 2 | Kadabra | Kadabra | 17 | Holds HM05 Flash. Never evolves, Alakazam needs a trade |
 | 3 | Taillow | Taillow | 15 | Has Thief. Swellow at 22 |
-| 4 | Makuhita | Makuhita | 14 | Hariyama at 24, stats double on evolution |
-| 5 | Geodude | Geodude | 11 | Magnitude at 16. Graveler at 25, no Golem without a trade |
+| 4 | Makuhita | Makuhita | 14 | **Lead.** Hariyama at 24, stats double on evolution |
+| 5 | Geodude | Geodude | 11 | **Holds Exp. Share.** Magnitude at 16. Graveler at 25, no Golem without a trade |
 | 6 | Slakoth | Slakoth | 6 | HM mule only. Cut, Strength, Rock Smash |
 
-Boxed: Wingull ("GAT") lv15.
+Boxed: Wingull ("GAT") lv15, Electrike lv12-13.
+
+Makuhita leads and Geodude holds the Exp. Share, so each takes 50% of every kill. That's
+the right split, both are the ones behind. Electrike earns nothing while it sits in the
+box.
 
 ## TM decisions
 
@@ -63,11 +67,12 @@ Gen 3 TMs are single use. These are settled.
 
 ## Open items
 
-- [ ] Exp. Share from Mr. Stone, Devon Corp 3F in Rustboro. Trigger is the Letter to
-      Steven, already done. Status unclear after the rollback. Sail Slateport to
-      Dewford to Petalburg (Briney's cottage) and walk up.
-- [ ] Catch Electrike on Route 110, lv12-13.
-- [ ] Trick House puzzle 1, needs Cut. Prize is a Rare Candy.
+- [x] Exp. Share from Mr. Stone, Devon Corp 3F in Rustboro.
+- [x] Catch Electrike on Route 110.
+- [ ] Trick House puzzle 1, needs Cut. Prize is a Rare Candy. It's the building straight
+      ahead at the T-junction north of the Slateport grass. Route 103 goes left, the
+      Mauville road goes right. The Trick Master hides under the table. The door
+      password is "Trick Master is fabulous".
 - [ ] Buy Harbor Mail in Slateport. It trades for the Coin Case in Mauville.
 
 ## Grinding plan
