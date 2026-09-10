@@ -91,14 +91,27 @@ Level targets: 20+ for the Route 110 rival, 24-26 for Wattson.
 
 ## Route ahead
 
-1. Route 110. Catch Electrike, clear the Trick House, run Route 103 trainers.
-2. Rival battle north of Cycling Road. Shroomish 18, Numel 18, Marshtomp 20. Reward is
-   the Itemfinder. Keep Geodude out against Marshtomp, Water hits it for 4x. Send
-   Geodude at Numel instead, Rock Throw is 2x there.
-3. Mauville. Trade Harbor Mail for the Coin Case. A scientist in the southeast house
-   gives HM06 Rock Smash. Rydel gives a free bike, take the Mach Bike.
-4. Wally outside the gym, one Ralts lv16.
-5. Wattson.
+1. **Trick House puzzle 1.** Trick Master hides under the table. Stand on the top-right
+   cushion, face it, press A. The back room opens behind the wall scroll. The maze is
+   split by trees, so Slakoth needs Cut. Trainers: Lass Sally (Oddish 16), Lass Robin
+   (Skitty 14, Shroomish 14, Marill 14), Youngster Eddie (Zigzagoon 14, Zigzagoon 16).
+   Orange Mail sits north of the maze, west of the exit. Read the second scroll, then
+   take the top-right door. The game only checks that you read it. Prize is a Rare Candy.
+   Keep Geodude away from Marill, Water is 4x.
+2. **Route 103**, the west branch at the same T-junction. Trainers, better EXP than the
+   wild lv12s outside.
+3. **Route 110 north** on the lower road, not the elevated Cycling Road. Clear trainers.
+4. **Rival battle** past the bend. Heal first. Shroomish 18, Numel 18, Marshtomp 20.
+   Reward is the Itemfinder. Keep Geodude out against Marshtomp, Water hits it for 4x.
+   Send Geodude at Numel instead, Rock Throw is 2x there.
+5. **Mauville.** Trade Harbor Mail for the Coin Case. X Speed behind the fence southeast
+   of the Mart. A scientist in the southeast house gives HM06 Rock Smash. Rydel gives a
+   free bike, take the Mach Bike. Skip the Rollout tutor, Geodude learns it free at 26.
+6. **Wally** outside the gym, one Ralts lv16.
+7. **Wattson.** Lead Geodude with Magnitude. Buy Parlyz Heals first.
+
+After Wattson, Rock Smash works in the field. That opens Rusturf Tunnel and a walking
+route back to Rustboro: Mauville, Route 117, Verdanturf, Rusturf, Route 116.
 
 ## Coverage holes
 
