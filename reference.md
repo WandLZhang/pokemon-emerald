@@ -107,6 +107,30 @@ Bike. Steven gives TM47 Steel Wing for the Letter.
 **Route 110.** Electrike 12-13, Gulpin 12-13, Minun 13, Plusle 12-13, Zigzagoon 12.
 Surfing gives Tentacool, Wingull, Pelipper.
 
+**Hoenn Safari Zone.** Entrance is north of Route 121, so it opens after Winona. ¥500
+for 30 Safari Balls, 500-step limit, and it needs the Pokeblock Case. In Emerald that
+case comes from the Lilycove Contest Hall, not Slateport like Ruby and Sapphire. No
+moves work inside, so Thief is useless there.
+
+| Pokemon | Area | Levels | Rate |
+|---|---|---|---|
+| Natu | 1 Central, 2 West | 25 | 10% |
+| Natu | 4 North | 27, 29 | 15% |
+| Xatu | 4 North | 29, 31 | 5% |
+| **Heracross** | 4 North | 27, 29 | 5% |
+| Phanpy | 4 North | 27, 29 | 30% |
+| Pikachu | 1 Central, 2 West | 25, 27 | 5%, holds a Light Ball 5% of the time |
+| Pinsir | 3 Northwest | 27, 29 | 5% |
+
+Area 4 needs the **Acro Bike**. Rydel swaps bike models free, so take the Mach Bike now
+and switch before this trip.
+
+Heracross answers the gym 7 hole. Bug hits Psychic for 2x. Xatu is a dex catch only, it
+loses to Kadabra on both Special Attack and Speed.
+
+Areas 5 and 6 are Emerald-only and need the Hall of Fame plus the National Dex. Natu
+isn't in either.
+
 **New Mauville.** Magnemite and Voltorb 22-26, Magneton and Electrode 26 at 1% each.
 Needs Surf plus the Basement Key, and Wattson only hands over the key **after the
 Balance Badge from Norman**. Three fake item balls are lv25 Voltorb.
