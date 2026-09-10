@@ -70,6 +70,15 @@ Sky Uppercut 50.
 
 **Geodude**: Tackle 1, Defense Curl 1, Mud Sport 6, **Rock Throw 11**, **Magnitude 16**,
 Selfdestruct 21, Rollout 26, Rock Blast 31, Earthquake 36, Explosion 41, Double-Edge 46.
+**Graveler at 25.** Golem needs a trade, so Graveler is the end of the line.
+
+**Graveler**: same up to Selfdestruct 21, then Rollout 29, Rock Blast 37, **Earthquake
+45**, Explosion 53, Double-Edge 62. Evolving pushes Earthquake back nine levels. Do it
+anyway. HP goes 40 to 55, Attack 80 to 95, Defense 100 to 115, and Magnitude already
+averages 71 with STAB. Don't use an Everstone.
+
+TM26 Earthquake is no shortcut. It's in the Seafloor Cavern near Archie and Kyogre,
+which needs Surf and Dive and comes after gym 8.
 
 **Makuhita**: Tackle 1, Focus Energy 1, Sand-Attack 4, Arm Thrust 10, **Vital Throw 13**,
 Fake Out 19, Whirlwind 22, Knock Off 28, SmellingSalt 31, Belly Drum 37, Endure 40,
