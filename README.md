@@ -30,7 +30,7 @@ Mauville pickups, if any are still open:
 | Slot | Name | Species | Lv | Notes |
 |---|---|---|---|---|
 | 1 | Kate | Combusken | 18 | Has Double Kick. Sand-Attack at 21, Bulk Up free at 28 |
-| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Disable, **Thief over Teleport**. Holds nothing. **Psybeam at 21.** Never evolves |
+| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, **Thief over Disable**. Holds nothing. **Psybeam at 21.** Never evolves |
 | 3 | Taillow | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck. Swellow at 22 |
 | 4 | Makuhita | Makuhita | 17 | Fake Out at 19. Hariyama at 24, stats double on evolution |
 | 5 | Geodude | Geodude | 22 | Holds the Exp. Share. Declined Selfdestruct. Graveler at 25 |
@@ -64,7 +64,7 @@ Bug Maniac Angelo's Illumise and Volbeat take 2x from Rock Throw.
 
 | Item | Goes to |
 |---|---|
-| TM46 Thief | **Unspent.** Teach it to Kadabra over Teleport |
+| TM46 Thief | **Unspent.** Teach it to Kadabra over Disable |
 | Exp. Share | Geodude. Don't swap it out for the gym |
 | Cheri Berry x4 | Combusken, Makuhita, Kadabra, Taillow. Geodude can't be paralyzed here |
 | Full Heal | Bag. Cures Supersonic confusion |
@@ -115,7 +115,7 @@ Winona.
 | TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
 | TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
 | TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Geodude. Rock Throw is free at 11, same power and better accuracy |
-| TM46 Thief | **Kadabra**, over Teleport | Dark is **special** in Gen 3. Kadabra's Sp. Atk is 120, Taillow's is 30. It's also the team's only Dark attack, and it answers the Dark types that wall Confusion. Kadabra must hold nothing |
+| TM46 Thief | **Kadabra**, over Disable | Dark is **special** in Gen 3. Kadabra's Sp. Atk is 120, Taillow's is 30. It's also the team's only Dark attack, and it answers the Dark types that wall Confusion. Kadabra must hold nothing. Keep Teleport, it warps to the last Center |
 | TM34 Shock Wave | Electrike, once Wattson drops it | Electrike's first Electric attack is Spark at 20 |
 
 ## Roster decisions

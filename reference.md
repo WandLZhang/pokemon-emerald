@@ -19,6 +19,9 @@ Gen 3 data only. Emerald differences from Ruby and Sapphire are called out.
   only way to drop one.
 - **Flash is only needed in Granite Cave.** Rusturf Tunnel, Meteor Falls, Shoal Cave,
   Seafloor Cavern, and Victory Road are all lit. Dump it at the Move Deleter.
+- **Teleport warps to the last Pokemon Center.** Entering one is enough, you don't have
+  to heal. In battle it escapes wild singles and always fails against trainers. Fly
+  replaces it once you have it, since Fly reaches any visited town.
 - **The Knuckle Badge caps obedience at lv30.**
 - **Exp. Share splits 50/50.** The holder takes 50%, participants split the rest.
 - **Switch-training works.** Any Pokemon sent out gets a share, even for one turn.
