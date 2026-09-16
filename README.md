@@ -8,7 +8,7 @@ Game data: [reference.md](reference.md).
 
 **Badges** Stone (Roxanne), Knuckle (Brawly)
 **Position** Route 110 cleared. Wally, then Wattson
-**Level targets** 24-26 for Wattson, Geodude 21+
+**Level targets** Geodude 20+ carries gym 3 alone. The rest only need 18+ as backup
 
 ## Route ahead
 
@@ -29,16 +29,14 @@ Mauville pickups, if any are still open:
 
 | Slot | Name | Species | Lv | Notes |
 |---|---|---|---|---|
-| 1 | Kate | Combusken | 17 | Has Double Kick. Bulk Up comes free at 28 |
+| 1 | Kate | Combusken | 18 | Has Double Kick. Sand-Attack at 21, Bulk Up free at 28 |
 | 2 | Kadabra | Kadabra | 18 | Knows Flash. Has Disable. **Psybeam at 21.** Never evolves |
-| 3 | Taillow | Taillow | 15 | Has Thief, so it holds nothing. Swellow at 22 |
-| 4 | Makuhita | Makuhita | 14 | Hariyama at 24, stats double on evolution |
-| 5 | Geodude | Geodude | 21 | Holds the Exp. Share. Declined Selfdestruct. Graveler at 25 |
+| 3 | Taillow | Taillow | 17 | Has Thief, so it holds nothing. Swellow at 22 |
+| 4 | Makuhita | Makuhita | 17 | Fake Out at 19. Hariyama at 24, stats double on evolution |
+| 5 | Geodude | Geodude | 22 | Holds the Exp. Share. Declined Selfdestruct. Graveler at 25 |
 | 6 | Slakoth | Slakoth | 6 | HM mule. Cut, Strength, Rock Smash |
 
 Boxed: Wingull ("GAT") lv15, Electrike.
-
-Levels are as last reported. Geodude and Kadabra are current.
 
 ## Wattson fight plan
 
