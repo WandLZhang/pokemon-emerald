@@ -31,7 +31,7 @@ Mauville pickups, if any are still open:
 |---|---|---|---|---|
 | 1 | Kate | Combusken | 18 | Has Double Kick. Sand-Attack at 21, Bulk Up free at 28 |
 | 2 | Kadabra | Kadabra | 18 | Knows Flash. Has Disable. **Psybeam at 21.** Never evolves |
-| 3 | Taillow | Taillow | 17 | Has Thief, so it holds nothing. Swellow at 22 |
+| 3 | Taillow | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck. **TM46 Thief still unspent.** Swellow at 22 |
 | 4 | Makuhita | Makuhita | 17 | Fake Out at 19. Hariyama at 24, stats double on evolution |
 | 5 | Geodude | Geodude | 22 | Holds the Exp. Share. Declined Selfdestruct. Graveler at 25 |
 | 6 | Slakoth | Slakoth | 6 | HM mule. Cut, Strength, Rock Smash |
@@ -64,6 +64,7 @@ Bug Maniac Angelo's Illumise and Volbeat take 2x from Rock Throw.
 
 | Item | Goes to |
 |---|---|
+| TM46 Thief | **Unspent.** Teach it to Taillow over Peck. Then Taillow holds nothing |
 | Exp. Share | Geodude. Don't swap it out for the gym |
 | Cheri Berry x4 | Combusken, Makuhita, Kadabra, Taillow. Geodude can't be paralyzed here |
 | Full Heal | Bag. Cures Supersonic confusion |
