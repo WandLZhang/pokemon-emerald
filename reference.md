@@ -57,6 +57,19 @@ Bring Ground. Fire and Fighting both hit Magneton for 2x. Bench Water and Flying
 
 Ralts 16. Growl, Confusion, Double Team, Teleport. He blocks the gym door.
 
+### Rival, Route 110, Torchic pick
+
+Emerald only. Ruby and Sapphire give Shroomish and Numel instead.
+
+| Pokemon | Lv | Type | Moves |
+|---|---|---|---|
+| Lombre | 18 | Water/Grass | Astonish, Growl, Absorb, Nature Power |
+| Slugma | 18 | Fire | Yawn, Smog, Ember, Rock Throw |
+| Marshtomp | 20 | Water/Ground | Water Gun, Bide, Mud Shot, Foresight |
+
+Reward is the Itemfinder and $1200. Lombre and Marshtomp both hit Geodude for 4x.
+Slugma is pure Fire, so Rock Throw is 2x there.
+
 ## Move data
 
 | Move | Type | Power | Acc | PP | Notes |
@@ -67,7 +80,7 @@ Ralts 16. Growl, Confusion, Double Team, Teleport. He blocks the gym door.
 | Rock Throw | Rock | 50 | 90 | 15 | Free on Geodude at 11 |
 | Rock Tomb | Rock | 50 | 80 | 10 | Lowers Speed by 1 |
 | Steel Wing | Steel | 70 | 90 | 25 | Physical in Gen 3 |
-| Thief | Dark | 40 | 100 | 10 | Physical. The user must hold nothing |
+| Thief | Dark | 40 | 100 | 10 | **Special**, since Dark is a special type in Gen 3. The user must hold nothing |
 | Swagger | Normal | — | 90 | 15 | Confuses the target and raises its Attack by 2 |
 | Shock Wave | Electric | 60 | never misses | 20 | TM34, from Wattson |
 | Mud Sport | Ground | — | — | 15 | Halves Electric power on both sides. Ends when the user switches out |
@@ -109,8 +122,9 @@ Selfdestruct 21, Rollout 26, Rock Blast 31, Earthquake 36, Explosion 41, Double-
 anyway. HP goes 40 to 55, Attack 80 to 95, Defense 100 to 115, and Magnitude already
 hits for 106 with STAB. Don't use an Everstone.
 
-TM26 Earthquake is no shortcut. It's in the Seafloor Cavern near Archie and Kyogre,
-which needs Surf and Dive and comes after gym 8.
+TM26 Earthquake is no shortcut. It's in the Seafloor Cavern near Archie and Kyogre.
+That opens after the Mind Badge from gym 7, and reaching the TM needs Surf, Dive,
+Strength, and Rock Smash.
 
 **Makuhita**: Tackle 1, Focus Energy 1, Sand-Attack 4, Arm Thrust 10, **Vital Throw 13**,
 Fake Out 19, Whirlwind 22, Knock Off 28, SmellingSalt 31, Belly Drum 37, Endure 40,
@@ -145,8 +159,20 @@ Cut is the bottleneck. Slakoth is the only carrier on the team.
 (Sapphire and Emerald, Ruby needs a trade) and Aron. Steven's room needs only Flash. B2F
 needs the Mach Bike. Steven gives TM47 Steel Wing for the Letter.
 
-**Route 110.** Electrike 12-13, Gulpin 12-13, Minun 13, Plusle 12-13, Zigzagoon 12,
-Oddish 12-13. Surfing gives Tentacool, Wingull, Pelipper.
+**Route 110**, Emerald grass. Zigzagoon is the Ruby and Sapphire slot. Emerald swaps in
+Poochyena.
+
+| Pokemon | Lv | Rate | vs Geodude |
+|---|---|---|---|
+| Electrike | 12-13 | 30% | immune |
+| Poochyena | 12 | 20% | resisted |
+| Minun | 13 | 15% | immune |
+| Gulpin | 12-13 | 15% | resisted |
+| **Oddish** | 13 | 10% | **4x** |
+| **Wingull** | 12 | 8% | **4x** |
+| Plusle | 12-13 | 2% | immune |
+
+Surfing gives Tentacool, Wingull, Pelipper.
 
 **Hoenn Safari Zone.** Entrance is north of Route 121, so it opens after Winona. $500
 for 30 Safari Balls, 500-step limit, and it needs the Pokeblock Case. In Emerald the case
@@ -162,8 +188,8 @@ comes from the Lilycove Contest Hall. Ruby and Sapphire give it in Slateport.
 | Pikachu | 1 Central, 2 West | 25, 27 | 5% |
 | Pinsir | 3 Northwest | 27, 29 | 5% |
 
-Area 4 needs the **Acro Bike**. Rydel swaps bike models free, so take the Mach Bike now
-and switch before this trip.
+Area 3 needs the **Mach Bike**. Area 4 needs the **Acro Bike**. Rydel swaps models free,
+so plan two passes or swap between them.
 
 Heracross answers the gym 7 hole. Bug hits Psychic for 2x. Xatu is a dex catch only, it
 loses to Kadabra on both Special Attack and Speed.
@@ -180,7 +206,7 @@ Balance Badge from Norman**. Three fake item balls are lv25 Voltorb.
 |---|---|---|
 | Exp. Share | Mr. Stone, Devon Corp 3F, Rustboro | Deliver the Letter to Steven |
 | TM47 Steel Wing | Steven, Granite Cave | Deliver the Letter |
-| TM46 Thief | Aqua grunt, Oceanic Museum 1F | Enter the museum |
+| TM46 Thief | Aqua grunt, Oceanic Museum 1F | Beat both grunts on 2F. He hands it over, then flees |
 | Repeat Ball | Devon researcher, Route 116 | Deliver the Devon Goods. Also unlocks Repeat and Timer Ball sales in Rustboro |
 | Coin Case | Woman near the Mauville Mart | Trade a Harbor Mail from the Slateport Mart |
 | HM06 Rock Smash | Scientist, southeast house in Mauville | Field use needs the Dynamo Badge |
