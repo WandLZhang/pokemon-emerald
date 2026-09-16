@@ -6,14 +6,14 @@ Game data: [reference.md](reference.md).
 
 ## Progress
 
-**Badges** Stone (Roxanne), Knuckle (Brawly)
-**Position** Route 110 cleared. Wally, then Wattson
-**Level targets** Geodude 20+ carries gym 3 alone. The rest only need 18+ as backup
+- **Badges:** Stone (Roxanne), Knuckle (Brawly)
+- **Position:** Route 110 cleared. Wally, then Wattson
+- **Levels:** Geodude 22 and ready. Taillow and Makuhita at 17, want 18+
 
 ## Route ahead
 
 1. **Wally**, outside the Mauville gym. One Ralts lv16. You can't enter until he's beaten.
-2. **Wattson.** Lead Geodude. See the fight plan below.
+2. **Wattson.** Lead Geodude. Fight plan below.
 3. After the Dynamo Badge, Rock Smash works in the field. That opens Rusturf Tunnel and a
    walking route back to Rustboro: Mauville, Route 117, Verdanturf, Rusturf, Route 116.
 
@@ -23,42 +23,46 @@ Mauville pickups, if any are still open:
 - X Speed, behind the fence southeast of the Mart.
 - HM06 Rock Smash, from the scientist in the southeast house.
 - A free bike from Rydel. Take the Mach Bike. He swaps models any time.
-- Skip the Rollout tutor. Geodude learns it free at 26.
+- Skip the Rollout tutor. Rollout needs five uninterrupted turns to beat Magnitude, and
+  one miss resets it.
 
 ## Party
 
-| Slot | Name | Species | Lv | Notes |
-|---|---|---|---|---|
-| 1 | Kate | Combusken | 18 | Has Double Kick. Sand-Attack at 21, Bulk Up free at 28 |
-| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, **Thief over Disable**. Holds nothing. **Psybeam at 21.** Never evolves |
-| 3 | Taillow | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck. Swellow at 22 |
-| 4 | Makuhita | Makuhita | 17 | Fake Out at 19. Hariyama at 24, stats double on evolution |
-| 5 | Geodude | Geodude | 22 | Holds the Exp. Share. Declined Selfdestruct. Graveler at 25 |
-| 6 | Slakoth | Slakoth | 6 | HM mule. Cut, Strength, Rock Smash |
+| Slot | Name | Species | Lv | Moves | Holding |
+|---|---|---|---|---|---|
+| 1 | Kate | Combusken | 18 | Ember, Double Kick, Rock Tomb | — |
+| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, Disable | nothing |
+| 3 | Taillow | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck | — |
+| 4 | Makuhita | Makuhita | 17 | Vital Throw, Arm Thrust, Bulk Up | — |
+| 5 | Geodude | Geodude | 22 | Magnitude, Rock Throw, Tackle, Defense Curl | Exp. Share |
+| 6 | Slakoth | Slakoth | 6 | HM carrier. Cut, Strength, Rock Smash | — |
 
 Boxed: Wingull ("GAT") lv15, Electrike.
 
-## Wattson fight plan
+Level-up schedules live in [reference.md](reference.md).
 
-**Geodude walks through almost the whole gym.** Three immunities stack:
+## Gym 3 fight plan
+
+Geodude beats five of the six fights. Three immunities stack on it:
 
 - Ground blocks Shock Wave and Spark.
-- Thunder Wave respects type immunity in Gen 3, so Magneton and Manectric can't
-  paralyze it.
+- Thunder Wave respects type immunity in Gen 3, so nothing here can paralyze it.
 - Magnitude makes no contact, so Static never triggers.
 
-Three things still hurt it:
+| Opponent | Send | Press | Watch for |
+|---|---|---|---|
+| Battle Girl Vivian, Meditite 17 x2 | **Taillow** | Wing Attack, 2x | Pure Power doubles its Attack. Fighting is 2x on Geodude, so keep Geodude out |
+| Guitarist Kirk, Electrike 17, Voltorb 17 | Geodude | Magnitude, 2x | Nothing. Neither can damage a Ground type |
+| Youngster Ben, Zigzagoon 17, Gulpin 17 | Makuhita, then Geodude | Vital Throw 2x, then Magnitude 2x | Both resist into Geodude at 0.5x |
+| Bug Maniac Angelo, Illumise 17, Volbeat 17 | Geodude | **Rock Throw**, 2x | Magnitude is 0.5x on Bug. This is the one fight where it's the wrong button |
+| Guitarist Shawn, Voltorb 17, Magnemite 17 | Geodude | Magnitude | 4x on Magnemite |
+| Voltorb 20 | Geodude | Magnitude, 2x | Selfdestruct. It outspeeds you, so kill it in one hit |
+| Electrike 20 | Geodude | Magnitude, 2x | Nothing |
+| Magneton 22 | Geodude | Magnitude, **4x** | SonicBoom is a flat 20 that resistance can't reduce. Supersonic confuses regardless of typing, so use the Full Heal |
+| Manectric 24 | Geodude | Magnitude, 2x | Sitrus Berry, plus Wattson's two Super Potions. Budget extra turns |
 
-1. **Magneton's SonicBoom.** Flat 20 damage, and resistance doesn't reduce it.
-2. **Magneton's Supersonic.** Confusion ignores typing. A confused Geodude hits itself
-   half the time. Cure it with the Full Heal.
-3. **Voltorb's Rollout and Selfdestruct.** Rollout is neutral and doubles each turn.
-
-**Battle Girl Vivian is the one gym trainer Geodude skips.** Her two Meditite are
-Fighting/Psychic, and Fighting is 2x on Rock. Send Taillow: Wing Attack is 2x on
-Fighting, Thief is 2x on Psychic.
-
-Bug Maniac Angelo's Illumise and Volbeat take 2x from Rock Throw.
+Doubles: Vivian pairs with Kirk, Angelo pairs with Shawn. Lead Taillow and Geodude for
+the first, Geodude and Kate for the second.
 
 ## Items on hand
 
@@ -66,7 +70,7 @@ Bug Maniac Angelo's Illumise and Volbeat take 2x from Rock Throw.
 |---|---|
 | TM46 Thief | **Unspent.** Teach it to Kadabra over Disable |
 | Exp. Share | Geodude. Don't swap it out for the gym |
-| Cheri Berry x4 | Combusken, Makuhita, Kadabra, Taillow. Geodude can't be paralyzed here |
+| Cheri Berry x4 | Combusken, Makuhita, Taillow. Geodude can't be paralyzed here, and Kadabra holds nothing for Thief |
 | Full Heal | Bag. Cures Supersonic confusion |
 | Revive | Bag |
 | Elixir | Bag. Magnitude has 30 PP, so it'll likely keep |
@@ -82,19 +86,16 @@ Buy Super Potions before the gym.
 
 ## Grinding plan
 
-Route 110 is mostly safe for Geodude, but not fully. Electrike, Plusle, and Minun are
-Electric, so Ground is immune, and Gulpin's Poison and Poochyena's Dark are both
-resisted. That's 67% of the grass.
-
-**Oddish (10%) and Wingull (8%) both hit Rock/Ground for 4x.** Wingull knows Water Gun
-from level 7. Switch out when either appears.
+Grind Geodude on Route 110. 82% of the grass can't hurt it. **Oddish (10%) and Wingull
+(8%) hit it for 4x**, and Wingull knows Water Gun from level 7, so switch out when either
+appears. Rates are in [reference.md](reference.md).
 
 Lead the weak one, switch to Kate, win. Gen 3 splits EXP across everything sent out.
 
 Priority: Makuhita toward 24. Leave Slakoth at 6. Kate, Kadabra, and Taillow keep pace on
 trainer battles alone. Electrike earns nothing in the box.
 
-## Coverage holes
+## Gym answers
 
 | Gym | Type | Answer on this team |
 |---|---|---|
@@ -102,11 +103,8 @@ trainer battles alone. Electrike earns nothing in the box.
 | 4 Flannery | Fire | Geodude, and Combusken resists Fire |
 | 5 Norman | Normal | Hariyama |
 | 6 Winona | Flying | Geodude, Manectric |
-| 7 Tate & Liza | Psychic | Kadabra's Thief off 120 Sp. Atk, but only 40 power. Heracross is the real fix |
-| 8 Juan | Water | Manectric. Geodude is dead weight |
-
-Heracross fixes gym 7. Safari Zone area 4, 5% rate, needs the Acro Bike, opens after
-Winona.
+| 7 Tate & Liza | Psychic | Kadabra's Thief, 40 power. Catch Heracross |
+| 8 Juan | Water | Manectric. Geodude does nothing here |
 
 ## TM decisions
 
@@ -115,15 +113,15 @@ Winona.
 | TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
 | TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
 | TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Geodude. Rock Throw is free at 11, same power and better accuracy |
-| TM46 Thief | **Kadabra**, over Disable | Dark is **special** in Gen 3, so it runs off Kadabra's 120 Sp. Atk, not Taillow's 30. Psychic does nothing at all to Dark types, so this is Kadabra's only out against them. Disable is 55% accurate in Gen 3 and useless on a 40 HP body. Cost: Kadabra holds nothing from now on, so no TwistedSpoon |
+| TM46 Thief | Kadabra, over Disable | Dark is special in Gen 3, so it runs off Kadabra's 120 Sp. Atk. It's the only move on the team that touches Dark types. Disable is 55% accurate. Kadabra holds nothing after this |
 | TM34 Shock Wave | Electrike, once Wattson drops it | Electrike's first Electric attack is Spark at 20 |
 
 ## Roster decisions
 
 - **Wingull is boxed.** It can't learn Surf in Gen 3. Fly is the only HM it takes, and
   Taillow covers that. It also duplicates Taillow's typing with a third of the Attack.
-- **Slakoth stays** as the Cut mule. Nothing else on the team learns Cut. Vigoroth at 18
-  swaps Truant for Vital Spirit if it ever gets trained.
+- **Slakoth stays.** Only Slakoth learns Cut. Vigoroth at 18 swaps Truant for Vital
+  Spirit if it ever gets trained.
 - **Makuhita keeps Vital Throw over Arm Thrust.** 70 power and never misses, against an
   average of 45 from Arm Thrust. Makuhita's base Speed is 25, so -1 priority costs
   nothing.

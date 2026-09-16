@@ -19,9 +19,8 @@ Gen 3 data only. Emerald differences from Ruby and Sapphire are called out.
   only way to drop one.
 - **Flash is only needed in Granite Cave.** Rusturf Tunnel, Meteor Falls, Shoal Cave,
   Seafloor Cavern, and Victory Road are all lit. Dump it at the Move Deleter.
-- **Teleport warps to the last Pokemon Center.** Entering one is enough, you don't have
-  to heal. In battle it escapes wild singles and always fails against trainers. Fly
-  replaces it once you have it, since Fly reaches any visited town.
+- **Teleport warps to the last Pokemon Center.** Entering one is enough, no heal needed.
+  Fly replaces it, since Fly reaches any visited town.
 - **The Knuckle Badge caps obedience at lv30.**
 - **Exp. Share splits 50/50.** The holder takes 50%, participants split the rest.
 - **Switch-training works.** Any Pokemon sent out gets a share, even for one turn.
@@ -57,7 +56,7 @@ Gym trainers, all lv17 with no held items:
 | Bug Maniac Angelo | Illumise 17, Volbeat 17 | Shawn |
 | Guitarist Shawn | Voltorb 17, Magnemite 17 | Angelo |
 
-Bring Ground. Fire and Fighting both hit Magneton for 2x. Bench Water and Flying.
+Fire and Fighting both hit Magneton for 2x.
 
 ### Pre-gym, Wally, outside the Mauville gym
 
@@ -106,7 +105,7 @@ Next milestone per Pokemon:
 | Kadabra | Psybeam | 21 | never, Alakazam needs a trade |
 | Taillow | Double Team | 19 | Swellow 22 |
 | Makuhita | Fake Out | 19 | Hariyama 24 |
-| Geodude | Rollout | 26 | Graveler 25 |
+| Geodude | Rollout **29**, as Graveler | 29 | Graveler 25. It evolves first, so the lv26 Geodude entry never fires |
 | Electrike | Spark | 20 | Manectric 26 |
 | Slakoth | Faint Attack | 19 | Vigoroth 18 |
 | Wingull | Supersonic | 19 | Pelipper 25 |
@@ -173,7 +172,7 @@ Poochyena.
 | Pokemon | Lv | Rate | vs Geodude |
 |---|---|---|---|
 | Electrike | 12-13 | 30% | immune |
-| Poochyena | 12 | 20% | resisted |
+| Poochyena | 12 | 20% | neutral, but it only has Tackle and Howl early |
 | Minun | 13 | 15% | immune |
 | Gulpin | 12-13 | 15% | resisted |
 | **Oddish** | 13 | 10% | **4x** |
@@ -199,7 +198,7 @@ comes from the Lilycove Contest Hall. Ruby and Sapphire give it in Slateport.
 Area 3 needs the **Mach Bike**. Area 4 needs the **Acro Bike**. Rydel swaps models free,
 so plan two passes or swap between them.
 
-Heracross answers the gym 7 hole. Bug hits Psychic for 2x. Xatu is a dex catch only, it
+Heracross is the gym 7 answer. Bug hits Psychic for 2x. Xatu is a dex catch only, it
 loses to Kadabra on both Special Attack and Speed.
 
 Areas 5 and 6 are Emerald-only and need the Hall of Fame plus the National Dex.
