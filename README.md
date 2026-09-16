@@ -30,8 +30,8 @@ Mauville pickups, if any are still open:
 | Slot | Name | Species | Lv | Notes |
 |---|---|---|---|---|
 | 1 | Kate | Combusken | 18 | Has Double Kick. Sand-Attack at 21, Bulk Up free at 28 |
-| 2 | Kadabra | Kadabra | 18 | Knows Flash. Has Disable. **Psybeam at 21.** Takes TM46 Thief. Never evolves |
-| 3 | Taillow | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck. Swellow at 22 |
+| 2 | Kadabra | Kadabra | 18 | Knows Flash. Has Disable. **Psybeam at 21.** Never evolves |
+| 3 | Taillow | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Thief. Holds nothing. Swellow at 22 |
 | 4 | Makuhita | Makuhita | 17 | Fake Out at 19. Hariyama at 24, stats double on evolution |
 | 5 | Geodude | Geodude | 22 | Holds the Exp. Share. Declined Selfdestruct. Graveler at 25 |
 | 6 | Slakoth | Slakoth | 6 | HM mule. Cut, Strength, Rock Smash |
@@ -64,7 +64,6 @@ Bug Maniac Angelo's Illumise and Volbeat take 2x from Rock Throw.
 
 | Item | Goes to |
 |---|---|
-| TM46 Thief | **Unspent.** Teach it to Kadabra, over Kinesis or Teleport. Kadabra then holds nothing |
 | Exp. Share | Geodude. Don't swap it out for the gym |
 | Cheri Berry x4 | Combusken, Makuhita, Kadabra, Taillow. Geodude can't be paralyzed here |
 | Full Heal | Bag. Cures Supersonic confusion |
@@ -102,7 +101,7 @@ trainer battles alone. Electrike earns nothing in the box.
 | 4 Flannery | Fire | Geodude, and Combusken resists Fire |
 | 5 Norman | Normal | Hariyama |
 | 6 Winona | Flying | Geodude, Manectric |
-| 7 Tate & Liza | Psychic | Kadabra's Thief off 120 Sp. Atk, but only 40 power |
+| 7 Tate & Liza | Psychic | **Nothing.** Taillow's Thief is special off 30 Sp. Atk |
 | 8 Juan | Water | Manectric. Geodude is dead weight |
 
 Heracross fixes gym 7. Safari Zone area 4, 5% rate, needs the Acro Bike, opens after
@@ -115,7 +114,7 @@ Winona.
 | TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
 | TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
 | TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Geodude. Rock Throw is free at 11, same power and better accuracy |
-| TM46 Thief | **Kadabra**, over Kinesis or Teleport | Dark is **special** in Gen 3. Kadabra's Sp. Atk is 120, Taillow's is 30. It also gives Kadabra a way to hit the Dark types that wall Confusion. Kadabra must then hold nothing |
+| TM46 Thief | Taillow, over Peck. **Spent.** | Use it to steal, not to hit. Dark is **special** in Gen 3 and Taillow's Sp. Atk is 30, so it does almost no damage. Taillow's base 85 Speed still makes it a good thief. Kadabra's 120 Sp. Atk would have been the damage pick |
 | TM34 Shock Wave | Electrike, once Wattson drops it | Electrike's first Electric attack is Spark at 20 |
 
 ## Roster decisions
