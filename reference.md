@@ -15,7 +15,10 @@ Gen 3 data only. Emerald differences from Ruby and Sapphire are called out.
 - **Magnitude and Earthquake make no contact.** Static and Rough Skin never trigger.
   Rollout, Quick Attack, and Spark do make contact.
 - **TMs are single use.**
-- **The Move Deleter is in Lilycove.** That's the only way to remove a move.
+- **The Move Deleter is in Lilycove.** A TM can't overwrite an HM move, so that's the
+  only way to drop one.
+- **Flash is only needed in Granite Cave.** Rusturf Tunnel, Meteor Falls, Shoal Cave,
+  Seafloor Cavern, and Victory Road are all lit. Dump it at the Move Deleter.
 - **The Knuckle Badge caps obedience at lv30.**
 - **Exp. Share splits 50/50.** The holder takes 50%, participants split the rest.
 - **Switch-training works.** Any Pokemon sent out gets a share, even for one turn.
