@@ -1,117 +1,96 @@
 # Pokemon Emerald run
 
-Live state for a Pokemon Emerald playthrough on GBA. Starter was Torchic.
+Pokemon Emerald on GBA. Starter: Torchic.
 
-Every game fact here is checked against Generation III data. Gen 3 rules differ from
-later games in ways that break most modern advice. See [reference.md](reference.md).
-
-Last updated: 2026-09-04.
+Game data: [reference.md](reference.md).
 
 ## Progress
 
-| | |
-|---|---|
-| Badges | Stone (Roxanne), Knuckle (Brawly) |
-| Just finished | Oceanic Museum. Devon Goods handed to Captain Stern, both Aqua grunts beaten |
-| Position | Slateport City, heading north to Route 110 |
-| Next gym | Wattson, Mauville, Electric |
+**Badges** Stone (Roxanne), Knuckle (Brawly)
+**Position** Route 110 cleared. Wally, then Wattson
+**Level targets** 24-26 for Wattson, Geodude 21+
 
-A save failed and rolled the run back. Makuhita dropped from 18 to 14. Some move
-changes below may have been undone with it.
+## Route ahead
+
+1. **Wally**, outside the Mauville gym. One Ralts lv16. You can't enter until he's beaten.
+2. **Wattson.** Lead Geodude. See the fight plan below.
+3. After the Dynamo Badge, Rock Smash works in the field. That opens Rusturf Tunnel and a
+   walking route back to Rustboro: Mauville, Route 117, Verdanturf, Rusturf, Route 116.
+
+Mauville pickups, if any are still open:
+
+- Trade the Harbor Mail for the Coin Case, from the woman near the Mart.
+- X Speed, behind the fence southeast of the Mart.
+- HM06 Rock Smash, from the scientist in the southeast house.
+- A free bike from Rydel. Take the Mach Bike. He swaps models any time.
+- Skip the Rollout tutor. Geodude learns it free at 26.
 
 ## Party
 
 | Slot | Name | Species | Lv | Notes |
 |---|---|---|---|---|
-| 1 | Kate | Combusken | 17 | Has Double Kick (learned at 16). Bulk Up comes free at 28 |
-| 2 | Kadabra | Kadabra | 17 | Holds HM05 Flash. Never evolves, Alakazam needs a trade |
-| 3 | Taillow | Taillow | 15 | Has Thief. Swellow at 22 |
-| 4 | Makuhita | Makuhita | 14 | **Lead.** Hariyama at 24, stats double on evolution |
-| 5 | Geodude | Geodude | 11 | **Holds Exp. Share.** Magnitude at 16. Graveler at 25, no Golem without a trade |
-| 6 | Slakoth | Slakoth | 6 | HM mule only. Cut, Strength, Rock Smash |
+| 1 | Kate | Combusken | 17 | Has Double Kick. Bulk Up comes free at 28 |
+| 2 | Kadabra | Kadabra | 18 | Knows Flash. Has Disable. **Psybeam at 21.** Never evolves |
+| 3 | Taillow | Taillow | 15 | Has Thief, so it holds nothing. Swellow at 22 |
+| 4 | Makuhita | Makuhita | 14 | Hariyama at 24, stats double on evolution |
+| 5 | Geodude | Geodude | 21 | Holds the Exp. Share. Declined Selfdestruct. Graveler at 25 |
+| 6 | Slakoth | Slakoth | 6 | HM mule. Cut, Strength, Rock Smash |
 
-Boxed: Wingull ("GAT") lv15, Electrike lv12-13.
+Boxed: Wingull ("GAT") lv15, Electrike.
 
-Makuhita leads and Geodude holds the Exp. Share, so each takes 50% of every kill. That's
-the right split, both are the ones behind. Electrike earns nothing while it sits in the
-box.
+Levels are as last reported. Geodude and Kadabra are current.
 
-## TM decisions
+## Wattson fight plan
 
-Gen 3 TMs are single use. These are settled.
+**Geodude walks through almost the whole gym.** Three immunities stack:
 
-| TM | Goes to | Why |
-|---|---|---|
-| TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
-| TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
-| TM39 Rock Tomb | Combusken, over Peck | Geodude gets Rock Throw free at 11: same power, better accuracy |
-| TM46 Thief | Taillow, over Peck | Physical, and it's the team's only Dark move |
-| TM34 Shock Wave | Electrike, once Wattson drops it | Electrike has no real Electric move until Spark at 20 |
+- Ground blocks Shock Wave and Spark.
+- Thunder Wave respects type immunity in Gen 3, so Magneton and Manectric can't
+  paralyze it.
+- Magnitude makes no contact, so Static never triggers.
 
-## Roster decisions
+Three things still hurt it:
 
-- **Wingull is boxed.** It can't learn Surf in Gen 3. Fly is the only HM it takes, and
-  Taillow covers that. It also duplicates Taillow's typing with a third of the Attack.
-- **Slakoth stays** as the Cut mule. Nothing else on the team learns Cut. Kadabra is
-  Flash only. Vigoroth at 18 swaps Truant for Vital Spirit if it ever gets trained.
-- **Makuhita keeps Vital Throw over Arm Thrust.** 70 power and never misses, against an
-  average of 45 from Arm Thrust. The -1 priority costs nothing on a base 25 Speed body.
-- **Hariyama is the future Surf carrier.** The Makuhita line learns Surf, Strength, and
-  Rock Smash.
-- **Skip the Slateport Swagger tutor.** It hands the target +2 Attack for a 50% self-hit
-  chance.
-- **Catch Electrike on Route 110.** No better Electric type exists until New Mauville,
-  which needs the Balance Badge from Norman plus Surf.
-- **Sableye** is Emerald-exclusive and has no weaknesses in Gen 3. Catch for the dex,
-  don't train it.
+1. **Magneton's SonicBoom.** Flat 20 damage, and resistance doesn't reduce it.
+2. **Magneton's Supersonic.** Confusion ignores typing. A confused Geodude hits itself
+   half the time. Cure it with the Full Heal.
+3. **Voltorb's Rollout and Selfdestruct.** Rollout is neutral and doubles each turn.
 
-## Open items
+**Battle Girl Vivian is the one gym trainer Geodude skips.** Her two Meditite are
+Fighting/Psychic, and Fighting is 2x on Rock. Send Taillow: Wing Attack is 2x on
+Fighting, Thief is 2x on Psychic.
 
-- [x] Exp. Share from Mr. Stone, Devon Corp 3F in Rustboro.
-- [x] Catch Electrike on Route 110.
-- [ ] Trick House puzzle 1, needs Cut. Prize is a Rare Candy. It's the building straight
-      ahead at the T-junction north of the Slateport grass. Route 103 goes left, the
-      Mauville road goes right. The Trick Master hides under the table. The door
-      password is "Trick Master is fabulous".
-- [ ] Buy Harbor Mail in Slateport. It trades for the Coin Case in Mauville.
+Bug Maniac Angelo's Illumise and Volbeat take 2x from Rock Throw.
+
+## Items on hand
+
+| Item | Goes to |
+|---|---|
+| Exp. Share | Geodude. Don't swap it out for the gym |
+| Cheri Berry x4 | Combusken, Makuhita, Kadabra, Taillow. Geodude can't be paralyzed here |
+| Full Heal | Bag. Cures Supersonic confusion |
+| Revive | Bag |
+| Elixir | Bag. Magnitude has 30 PP, so it'll likely keep |
+| PP Up | Makuhita's Vital Throw, 10 PP to 12 |
+| Rare Candy | Hold. Spend it at Makuhita 23 to reach Hariyama |
+| Leppa Berry x2 | Anyone with a free item slot |
+| Guard Spec. | Skip. It only blocks Electrike's Leer |
+| Dire Hit | Skip |
+| Nanab Berry x9 | Nothing until the Pokeblock Case |
+| Orange Mail | Nothing. Harbor Mail is the one that buys the Coin Case |
+
+Buy Super Potions before the gym.
 
 ## Grinding plan
 
 Route 110's whole wild pool is harmless to Geodude. Electrike, Plusle, and Minun are
 Electric, so Ground is immune. Gulpin's Poison and Zigzagoon's Normal are both 0.5x
-against Rock. Park Geodude there and take it to 16 for Magnitude.
+against Rock.
 
-Switch-training works in Gen 3: every Pokemon that gets sent out splits the EXP, even if
-it leaves after one turn. Lead the weak one, switch to Kate, win.
+Lead the weak one, switch to Kate, win. Gen 3 splits EXP across everything sent out.
 
-Priority: Geodude to 16, then Makuhita toward 24. Leave Slakoth at 6. Kate, Kadabra, and
-Taillow keep pace on trainer battles alone.
-
-Level targets: 20+ for the Route 110 rival, 24-26 for Wattson.
-
-## Route ahead
-
-1. **Trick House puzzle 1.** Trick Master hides under the table. Stand on the top-right
-   cushion, face it, press A. The back room opens behind the wall scroll. The maze is
-   split by trees, so Slakoth needs Cut. Trainers: Lass Sally (Oddish 16), Lass Robin
-   (Skitty 14, Shroomish 14, Marill 14), Youngster Eddie (Zigzagoon 14, Zigzagoon 16).
-   Orange Mail sits north of the maze, west of the exit. Read the second scroll, then
-   take the top-right door. The game only checks that you read it. Prize is a Rare Candy.
-   Keep Geodude away from Marill, Water is 4x.
-2. **Route 103**, the west branch at the same T-junction. Trainers, better EXP than the
-   wild lv12s outside.
-3. **Route 110 north** on the lower road, not the elevated Cycling Road. Clear trainers.
-4. **Rival battle** past the bend. Heal first. Shroomish 18, Numel 18, Marshtomp 20.
-   Reward is the Itemfinder. Keep Geodude out against Marshtomp, Water hits it for 4x.
-   Send Geodude at Numel instead, Rock Throw is 2x there.
-5. **Mauville.** Trade Harbor Mail for the Coin Case. X Speed behind the fence southeast
-   of the Mart. A scientist in the southeast house gives HM06 Rock Smash. Rydel gives a
-   free bike, take the Mach Bike. Skip the Rollout tutor, Geodude learns it free at 26.
-6. **Wally** outside the gym, one Ralts lv16.
-7. **Wattson.** Lead Geodude with Magnitude. Buy Parlyz Heals first.
-
-After Wattson, Rock Smash works in the field. That opens Rusturf Tunnel and a walking
-route back to Rustboro: Mauville, Route 117, Verdanturf, Rusturf, Route 116.
+Priority: Makuhita toward 24. Leave Slakoth at 6. Kate, Kadabra, and Taillow keep pace on
+trainer battles alone. Electrike earns nothing in the box.
 
 ## Coverage holes
 
@@ -121,7 +100,35 @@ route back to Rustboro: Mauville, Route 117, Verdanturf, Rusturf, Route 116.
 | 4 Flannery | Fire | Geodude, and Combusken resists Fire |
 | 5 Norman | Normal | Hariyama |
 | 6 Winona | Flying | Geodude, Manectric |
-| 7 Tate & Liza | Psychic | **Nothing.** Taillow's Thief is the only Dark move |
-| 8 Juan | Water | **Manectric only.** Geodude is dead weight |
+| 7 Tate & Liza | Psychic | Taillow's Thief, and it's only 40 power |
+| 8 Juan | Water | Manectric. Geodude is dead weight |
 
-Gym 7 needs a real Dark, Ghost, or Bug attacker. Nothing on the current roster fills it.
+Heracross fixes gym 7. Safari Zone area 4, 5% rate, needs the Acro Bike, opens after
+Winona.
+
+## TM decisions
+
+| TM | Goes to | Why |
+|---|---|---|
+| TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
+| TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
+| TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Geodude. Rock Throw is free at 11, same power and better accuracy |
+| TM46 Thief | Taillow, over Peck | Physical, and it's the team's only Dark move |
+| TM34 Shock Wave | Electrike, once Wattson drops it | Electrike's first Electric attack is Spark at 20 |
+
+## Roster decisions
+
+- **Wingull is boxed.** It can't learn Surf in Gen 3. Fly is the only HM it takes, and
+  Taillow covers that. It also duplicates Taillow's typing with a third of the Attack.
+- **Slakoth stays** as the Cut mule. Nothing else on the team learns Cut. Vigoroth at 18
+  swaps Truant for Vital Spirit if it ever gets trained.
+- **Makuhita keeps Vital Throw over Arm Thrust.** 70 power and never misses, against an
+  average of 45 from Arm Thrust. Makuhita's base Speed is 25, so -1 priority costs
+  nothing.
+- **Hariyama is the future Surf carrier.**
+- **Skip the Slateport Swagger tutor.** Swagger raises the target's Attack by 2. The
+  confusion self-hits only half the time.
+- **Electrike is the only Electric type until New Mauville**, which needs Norman's
+  Balance Badge plus Surf.
+- **Sableye** has no weaknesses in Gen 3. Catch one in Granite Cave for the dex, don't
+  train it.
