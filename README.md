@@ -115,7 +115,7 @@ Winona.
 | TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
 | TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
 | TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Geodude. Rock Throw is free at 11, same power and better accuracy |
-| TM46 Thief | **Kadabra**, over Disable | Dark is **special** in Gen 3. Kadabra's Sp. Atk is 120, Taillow's is 30. It's also the team's only Dark attack, and it answers the Dark types that wall Confusion. Kadabra must hold nothing. Keep Teleport, it warps to the last Center |
+| TM46 Thief | **Kadabra**, over Disable | Dark is **special** in Gen 3, so it runs off Kadabra's 120 Sp. Atk, not Taillow's 30. Psychic does nothing at all to Dark types, so this is Kadabra's only out against them. Disable is 55% accurate in Gen 3 and useless on a 40 HP body. Cost: Kadabra holds nothing from now on, so no TwistedSpoon |
 | TM34 Shock Wave | Electrike, once Wattson drops it | Electrike's first Electric attack is Spark at 20 |
 
 ## Roster decisions

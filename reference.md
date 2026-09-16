@@ -88,6 +88,8 @@ Slugma is pure Fire, so Rock Throw is 2x there.
 | Steel Wing | Steel | 70 | 90 | 25 | Physical in Gen 3 |
 | Thief | Dark | 40 | 100 | 10 | **Special**, since Dark is a special type in Gen 3. The user must hold nothing |
 | Swagger | Normal | — | 90 | 15 | Confuses the target and raises its Attack by 2 |
+| Disable | Normal | — | **55** | 20 | Blocks the target's last move for 2-5 turns. Fails on a fresh switch-in and ends if they switch out. 80% in Gen 4, 100% in Gen 5+ |
+| Teleport | Psychic | — | — | 20 | Field: warps to the last Pokemon Center. Battle: escapes wild singles, always fails vs trainers |
 | Shock Wave | Electric | 60 | never misses | 20 | TM34, from Wattson |
 | Mud Sport | Ground | — | — | 15 | Halves Electric power on both sides. Ends when the user switches out |
 
