@@ -287,8 +287,11 @@ In Gen 3 Thief keeps the item for good, from wild Pokemon and from ordinary trai
 | TwistedSpoon | Abra | 5% |
 | Sitrus Berry | Linoone | 5% |
 
-Leading with a Compound Eyes Pokemon (Nincada) raises wild held-item rates from 5% to
-20% in Emerald, even if it's fainted.
+Gen 3 gives each species a common slot at 50% and a rare slot at 5%. Everything in the
+table above is a rare-slot item. If one item fills both slots it appears 100% of the time.
+
+Leading with a Compound Eyes Pokemon (Nincada) shifts those odds from **50%/5% to
+60%/20%**. This starts in Emerald, and the lead counts even when fainted.
 
 Safari Zone Pikachu hold a Light Ball 5% of the time, but moves don't work in the Safari
 Zone, so you have to catch one. Wild Clamperl hold Blue Shards, not the Deep Sea items.
