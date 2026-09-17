@@ -15,8 +15,11 @@ Game data: [reference.md](reference.md).
 Route 111 south, Route 112 south, Fiery Path, Route 112 north, Route 111 north,
 Route 113, Fallarbor Town, Route 114, Meteor Falls.
 
-1. **Rusturf Tunnel first, optional.** Rock Smash opens it now. It holds **HM04 Strength**
-   and reconnects you to Rustboro on foot through Route 116.
+0. **Rusturf Tunnel first.** Go **west** on Route 117 to Verdanturf, not north. Swap
+   Slakoth in, since it's the only Rock Smash carrier. Break the construction rocks in
+   the middle and Wanda's boyfriend gives **HM04 Strength**. Also a Max Ether and a Poke
+   Ball. **Hiker Mike has two Geodude and a Machop at lv16** — Water Gun is 4x on
+   Geodude, so this is the best Wingull training available. Wild Whismur lv5-8 only.
 2. **Route 111 north: TM43 Secret Power.** Unlocks Secret Bases.
 3. **Route 113** is the ash route. Take the **Soot Sack** from the Glass Workshop.
 4. **Fallarbor Town** has the **Move Reminder**, one Heart Scale per move. This is where
@@ -33,19 +36,18 @@ Two gates:
 
 | Slot | Name | Species | Lv | Moves | Holding |
 |---|---|---|---|---|---|
-| 1 | Kate | Combusken | ? | Ember, Double Kick, Rock Tomb | — |
-| 2 | Kadabra | Kadabra | ? | Confusion, Flash, Teleport, Disable | nothing |
-| 3 | Taillow | Taillow | ? | Steel Wing, Wing Attack, Quick Attack, Peck | — |
-| 4 | Makuhita | Makuhita | ? | Vital Throw, Arm Thrust, Bulk Up | — |
-| 5 | Graveler | Graveler | 25 | Magnitude, Rock Throw, Tackle, Defense Curl | — |
-| 6 | **GAT** | **Wingull** | 15 | Wing Attack, Water Gun, Supersonic, Growl | **Exp. Share** |
+| 1 | Kate | Combusken | 18 | Ember, Double Kick, Rock Tomb | — |
+| 2 | Kadabra | Kadabra | ? | Confusion, Flash, Teleport, **Thief** | nothing |
+| 3 | Tylo | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck | — |
+| 4 | Makuhita | Makuhita | 17 | Vital Throw, Arm Thrust, Bulk Up | — |
+| 5 | Graveler | Graveler | 26 | Magnitude, Rock Throw, Tackle, Defense Curl | — |
+| 6 | GAT | Wingull | 15 | Wing Attack, Water Gun, Supersonic, Growl | **Exp. Share** |
 
 Boxed: Slakoth lv6, Electrike.
 
-Levels marked `?` need confirming after the gym.
-
-**Slakoth is the only Cut carrier.** Pull it out of the PC when a tree blocks you.
-Graveler covers Strength and Rock Smash.
+**Slakoth carries all three field HMs: Cut, Strength, Rock Smash.** Nothing in the active
+party knows any of them. Pull Slakoth out of the PC whenever a tree or a boulder blocks
+you, then put it back.
 
 ## Gym 4: Flannery, Lavaridge
 
@@ -73,7 +75,7 @@ Gym trainers run Slugma and Numel at lv22-23, plus a Kecleon and a Meditite at 2
 | Item | Goes to |
 |---|---|
 | Exp. Share | **Wingull**, until it catches up. Graveler doesn't need it |
-| TM46 Thief | Unspent. Teach it to Kadabra over Disable |
+| HM06 Rock Smash | Slakoth has it. Southeastern Mauville house if you still need the HM |
 | TM34 Shock Wave | Electrike, when you train it |
 | Cheri Berry x4 | Spare. Nothing in gym 4 paralyzes |
 | Full Heal | Bag |

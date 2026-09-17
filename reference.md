@@ -241,7 +241,8 @@ Balance Badge from Norman**. Three fake item balls are lv25 Voltorb.
 | Itemfinder | Rival, Route 110 | Win the battle |
 | TM24 Thunderbolt | Wattson | Finish the New Mauville errand, or 4000 Game Corner coins |
 | Pokeblock Case | Lilycove Contest Hall | Needed to enter the Safari Zone |
-| HM04 Strength | Rusturf Tunnel | Field use needs the **Heat Badge**, gym 4 |
+| HM04 Strength | Wanda's boyfriend, mid Rusturf Tunnel | Break the rocks with Rock Smash first. Field use needs the **Heat Badge**, gym 4 |
+| HM06 Rock Smash | Rock Smash Guy, southeastern house in Mauville | No prerequisite. Field use needs the Dynamo Badge |
 | HM02 Fly | Route 119 | Field use needs the **Feather Badge**, gym 6 |
 | TM43 Secret Power | Route 111 north | Also unlocks Secret Bases |
 | Soot Sack | Glass Workshop, Route 113 | Collects volcanic ash |
