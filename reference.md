@@ -110,6 +110,7 @@ Slugma is pure Fire, so Rock Throw is 2x there.
 | Swagger | Normal | — | 90 | 15 | Confuses the target and raises its Attack by 2 |
 | Disable | Normal | — | **55** | 20 | Blocks the target's last move for 2-5 turns. Fails on a fresh switch-in and ends if they switch out. 80% in Gen 4, 100% in Gen 5+ |
 | Teleport | Psychic | — | — | 20 | Field: warps to the last Pokemon Center. Battle: escapes wild singles, always fails vs trainers |
+| Quick Claw | item | — | — | — | 20% chance to move first **within its priority bracket** in Gen 3. It can't lift a -1 move like Vital Throw above a normal-priority one |
 | Shock Wave | Electric | 60 | never misses | 20 | TM34, from Wattson |
 | Mud Sport | Ground | — | — | 15 | Halves Electric power on both sides. Ends when the user switches out |
 
@@ -165,6 +166,14 @@ Team 19, Endeavor 26, **Aerial Ace 34**, Agility 43. **Swellow at 22.**
 Odor Sleuth 25, Roar 28, Bite 33, Thunder 36, Charge 41. **Manectric at 26.** Takes TM24
 Thunderbolt, TM25 Thunder, TM34 Shock Wave.
 
+**Wingull**: Growl 1, **Water Gun 1**, Supersonic 7, **Wing Attack 13**, Mist 21, Quick
+Attack 31, Pursuit 43, Agility 55. **Pelipper at 25.** Water Gun at 40 power is its only
+Water move by level.
+
+**Pelipper**: Growl 1, Water Gun 1/3, Water Sport 1, Wing Attack 1/13, Supersonic 7,
+Mist 21, Protect 25, Stockpile 33, Swallow 33, Spit Up 47, **Hydro Pump 61**. Takes
+**HM03 Surf** and HM02 Fly, both with STAB. Surf is the reason to raise this line.
+
 **Slakoth**: Scratch 1, Yawn 1, Encore 7, Slack Off 13, Faint Attack 19, Amnesia 25,
 Covet 31, Counter 37, Flail 43. **Vigoroth at 18**, which swaps Truant for Vital Spirit.
 
@@ -173,6 +182,7 @@ Covet 31, Counter 37, Flail 43. **Vigoroth at 18**, which swaps Truant for Vital
 | Pokemon | HMs it can learn |
 |---|---|
 | Wingull | Fly only. **Not Surf** |
+| Pelipper | Fly and **Surf**, both with STAB |
 | Kadabra | Flash only. **Not Cut** |
 | Slakoth | Cut, Strength, Rock Smash |
 | Makuhita | Surf, Strength, Rock Smash. **Not Cut** |

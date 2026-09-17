@@ -37,10 +37,10 @@ Two gates:
 | Slot | Name | Species | Lv | Moves | Holding |
 |---|---|---|---|---|---|
 | 1 | Kate | Combusken | 18 | Ember, Double Kick, Rock Tomb | — |
-| 2 | Kadabra | Kadabra | ? | Confusion, Flash, Teleport, **Thief** | nothing |
+| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, **Thief** | nothing |
 | 3 | Tylo | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck | — |
 | 4 | Makuhita | Makuhita | 17 | Vital Throw, Arm Thrust, Bulk Up | — |
-| 5 | Graveler | Graveler | 26 | Magnitude, Rock Throw, Tackle, Defense Curl | — |
+| 5 | Graveler | Graveler | 26 | Magnitude, Rock Throw, Tackle, Defense Curl | **Quick Claw** |
 | 6 | GAT | Wingull | 15 | Wing Attack, Water Gun, Supersonic, Growl | **Exp. Share** |
 
 Boxed: Slakoth lv6, Electrike.
@@ -120,8 +120,14 @@ Electrike earns nothing in the box.
 
 - **Wingull is back** at his son's request, and it's also the right call for gym 4. Water
   is 4x on Numel and Camerupt, and Water/Flying can't be hit by their Ground moves.
-- **Wingull can't learn Surf in Gen 3.** Fly is the only HM it takes. Hariyama carries
-  Surf later.
+- **Pelipper is the Surf carrier, not Hariyama.** Wingull itself can't learn Surf, but
+  Pelipper can, and it gets STAB. Pelipper's Sp. Atk is 85 against Hariyama's 40.
+- **Wingull's ceiling is Surf.** Water Gun at 40 power is its only Water move by level,
+  forever. TM03 Water Pulse comes from Juan at gym 8 and Hydro Pump is level 61. So
+  Wingull is weak until it hits 25 for Pelipper and you clear Norman for HM03.
+- **Quick Claw goes on Graveler.** 20% to move first in Gen 3, worth most on base 35
+  Speed with base 95 Attack. It can't rescue Makuhita's Vital Throw, which is -1
+  priority, because Quick Claw only reorders inside a priority bracket.
 - **Slakoth is boxed** but stays the Cut carrier. Only Slakoth learns Cut.
 - **Makuhita keeps Vital Throw over Arm Thrust.** 70 power and never misses, against an
   average of 45 from Arm Thrust. Makuhita's base Speed is 25, so -1 priority costs
