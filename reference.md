@@ -58,6 +58,27 @@ Gym trainers, all lv17 with no held items:
 
 Fire and Fighting both hit Magneton for 2x.
 
+### Gym 4, Flannery, Lavaridge
+
+Emerald gives her four. Ruby and Sapphire give three: two Slugma at 26 and Torkoal 28
+with no held item.
+
+| Pokemon | Lv | Ability | Item | Moves |
+|---|---|---|---|---|
+| Numel | 24 | Oblivious | — | Overheat, Take Down, Magnitude, Sunny Day |
+| Slugma | 24 | Magma Armor | — | Overheat, Smog, Light Screen, Sunny Day |
+| Camerupt | 26 | Magma Armor | — | Overheat, Tackle, Sunny Day, Attract |
+| Torkoal | 29 | White Smoke | White Herb | Overheat, Sunny Day, Body Slam, Attract |
+
+Two Hyper Potions. Reward: Heat Badge, TM50 Overheat, $2,900.
+
+Numel and Camerupt are Fire/Ground, so Water is 4x on both. Every one of them carries
+Sunny Day, which halves Water damage. Torkoal's White Herb cancels Overheat's own Sp. Atk
+drop.
+
+Gym trainers: Slugma and Numel at lv22-23, one Kecleon 23, one Meditite 23. No held
+items.
+
 ### Pre-gym, Wally, outside the Mauville gym
 
 Ralts 16. Growl, Confusion, Double Team, Teleport. He blocks the gym door.
@@ -220,6 +241,10 @@ Balance Badge from Norman**. Three fake item balls are lv25 Voltorb.
 | Itemfinder | Rival, Route 110 | Win the battle |
 | TM24 Thunderbolt | Wattson | Finish the New Mauville errand, or 4000 Game Corner coins |
 | Pokeblock Case | Lilycove Contest Hall | Needed to enter the Safari Zone |
+| HM04 Strength | Rusturf Tunnel | Field use needs the **Heat Badge**, gym 4 |
+| HM02 Fly | Route 119 | Field use needs the **Feather Badge**, gym 6 |
+| TM43 Secret Power | Route 111 north | Also unlocks Secret Bases |
+| Soot Sack | Glass Workshop, Route 113 | Collects volcanic ash |
 
 ## Item effects
 

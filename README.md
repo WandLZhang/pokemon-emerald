@@ -6,105 +6,103 @@ Game data: [reference.md](reference.md).
 
 ## Progress
 
-- **Badges:** Stone (Roxanne), Knuckle (Brawly)
-- **Position:** Route 110 cleared. Wally, then Wattson
-- **Levels:** Geodude 22 and ready. Taillow and Makuhita at 17, want 18+
+- **Badges:** Stone (Roxanne), Knuckle (Brawly), **Dynamo (Wattson)**
+- **Position:** Mauville. Heading north to Route 111
+- **Next gym:** Flannery, Lavaridge, Fire
 
 ## Route ahead
 
-1. **Wally**, outside the Mauville gym. One Ralts lv16. You can't enter until he's beaten.
-2. **Wattson.** Lead Geodude. Fight plan below.
-3. After the Dynamo Badge, Rock Smash works in the field. That opens Rusturf Tunnel and a
-   walking route back to Rustboro: Mauville, Route 117, Verdanturf, Rusturf, Route 116.
+Route 111 south, Route 112 south, Fiery Path, Route 112 north, Route 111 north,
+Route 113, Fallarbor Town, Route 114, Meteor Falls.
 
-Mauville pickups, if any are still open:
+1. **Rusturf Tunnel first, optional.** Rock Smash opens it now. It holds **HM04 Strength**
+   and reconnects you to Rustboro on foot through Route 116.
+2. **Route 111 north: TM43 Secret Power.** Unlocks Secret Bases.
+3. **Route 113** is the ash route. Take the **Soot Sack** from the Glass Workshop.
+4. **Fallarbor Town** has the **Move Reminder**, one Heart Scale per move. This is where
+   Kadabra buys Recover back.
+5. **Route 114**, then Meteor Falls.
 
-- Trade the Harbor Mail for the Coin Case, from the woman near the Mart.
-- X Speed, behind the fence southeast of the Mart.
-- HM06 Rock Smash, from the scientist in the southeast house.
-- A free bike from Rydel. Take the Mach Bike. He swaps models any time.
-- Skip the Rollout tutor. Rollout needs five uninterrupted turns to beat Magnitude, and
-  one miss resets it.
+Two gates:
+
+- **Strength needs the Heat Badge**, which is gym 4. The Fiery Path boulder rooms are a
+  return trip. Walk the main tunnel for now.
+- Lavaridge and Jagged Pass sit west of Route 112 and aren't reachable yet.
 
 ## Party
 
 | Slot | Name | Species | Lv | Moves | Holding |
 |---|---|---|---|---|---|
-| 1 | Kate | Combusken | 18 | Ember, Double Kick, Rock Tomb | — |
-| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, Disable | nothing |
-| 3 | Taillow | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck | — |
-| 4 | Makuhita | Makuhita | 17 | Vital Throw, Arm Thrust, Bulk Up | — |
-| 5 | Geodude | Geodude | 22 | Magnitude, Rock Throw, Tackle, Defense Curl | Exp. Share |
-| 6 | Slakoth | Slakoth | 6 | HM carrier. Cut, Strength, Rock Smash | — |
+| 1 | Kate | Combusken | ? | Ember, Double Kick, Rock Tomb | — |
+| 2 | Kadabra | Kadabra | ? | Confusion, Flash, Teleport, Disable | nothing |
+| 3 | Taillow | Taillow | ? | Steel Wing, Wing Attack, Quick Attack, Peck | — |
+| 4 | Makuhita | Makuhita | ? | Vital Throw, Arm Thrust, Bulk Up | — |
+| 5 | Graveler | Graveler | 25 | Magnitude, Rock Throw, Tackle, Defense Curl | — |
+| 6 | **GAT** | **Wingull** | 15 | Wing Attack, Water Gun, Supersonic, Growl | **Exp. Share** |
 
-Boxed: Wingull ("GAT") lv15, Electrike.
+Boxed: Slakoth lv6, Electrike.
 
-Level-up schedules live in [reference.md](reference.md).
+Levels marked `?` need confirming after the gym.
 
-## Gym 3 fight plan
+**Slakoth is the only Cut carrier.** Pull it out of the PC when a tree blocks you.
+Graveler covers Strength and Rock Smash.
 
-Geodude beats five of the six fights. Three immunities stack on it:
+## Gym 4: Flannery, Lavaridge
 
-- Ground blocks Shock Wave and Spark.
-- Thunder Wave respects type immunity in Gen 3, so nothing here can paralyze it.
-- Magnitude makes no contact, so Static never triggers.
+Every one of her Pokemon knows **Overheat** and **Sunny Day**. Sunny Day halves Water
+damage, so budget an extra turn.
 
-| Opponent | Send | Press | Watch for |
-|---|---|---|---|
-| Battle Girl Vivian, Meditite 17 x2 | **Taillow** | Wing Attack, 2x | Pure Power doubles its Attack. Fighting is 2x on Geodude, so keep Geodude out |
-| Guitarist Kirk, Electrike 17, Voltorb 17 | Geodude | Magnitude, 2x | Nothing. Neither can damage a Ground type |
-| Youngster Ben, Zigzagoon 17, Gulpin 17 | Makuhita, then Geodude | Vital Throw 2x, then Magnitude 2x | Both resist into Geodude at 0.5x |
-| Bug Maniac Angelo, Illumise 17, Volbeat 17 | Geodude | **Rock Throw**, 2x | Magnitude is 0.5x on Bug. This is the one fight where it's the wrong button |
-| Guitarist Shawn, Voltorb 17, Magnemite 17 | Geodude | Magnitude | 4x on Magnemite |
-| Voltorb 20 | Geodude | Magnitude, 2x | Selfdestruct. It outspeeds you, so kill it in one hit |
-| Electrike 20 | Geodude | Magnitude, 2x | Nothing |
-| Magneton 22 | Geodude | Magnitude, **4x** | SonicBoom is a flat 20 that resistance can't reduce. Supersonic confuses regardless of typing, so use the Full Heal |
-| Manectric 24 | Geodude | Magnitude, 2x | Sitrus Berry, plus Wattson's two Super Potions. Budget extra turns |
+| Pokemon | Lv | Ability | Item | Water Gun |
+|---|---|---|---|---|
+| Numel (Fire/Ground) | 24 | Oblivious | — | **4x** |
+| Slugma (Fire) | 24 | Magma Armor | — | 2x |
+| Camerupt (Fire/Ground) | 26 | Magma Armor | — | **4x** |
+| Torkoal (Fire) | 29 | White Smoke | White Herb | 2x |
 
-Doubles: Vivian pairs with Kirk, Angelo pairs with Shawn. Lead Taillow and Geodude for
-the first, Geodude and Kate for the second.
+She uses two Hyper Potions. Reward: Heat Badge, TM50 Overheat, $2,900.
+
+**Wingull is the lead.** Water/Flying is immune to Ground, so Numel's Magnitude can't
+touch it, and Water resists Overheat. Graveler is only 2x here and takes 2x back from
+both Fire/Grounds. Torkoal's White Herb undoes Overheat's own Sp. Atk drop, so it keeps
+hitting hard.
+
+Gym trainers run Slugma and Numel at lv22-23, plus a Kecleon and a Meditite at 23.
 
 ## Items on hand
 
 | Item | Goes to |
 |---|---|
-| TM46 Thief | **Unspent.** Teach it to Kadabra over Disable |
-| Exp. Share | Geodude. Don't swap it out for the gym |
-| Cheri Berry x4 | Combusken, Makuhita, Taillow. Geodude can't be paralyzed here, and Kadabra holds nothing for Thief |
-| Full Heal | Bag. Cures Supersonic confusion |
+| Exp. Share | **Wingull**, until it catches up. Graveler doesn't need it |
+| TM46 Thief | Unspent. Teach it to Kadabra over Disable |
+| TM34 Shock Wave | Electrike, when you train it |
+| Cheri Berry x4 | Spare. Nothing in gym 4 paralyzes |
+| Full Heal | Bag |
 | Revive | Bag |
-| Elixir | Bag. Magnitude has 30 PP, so it'll likely keep |
+| Elixir | Bag |
 | PP Up | Makuhita's Vital Throw, 10 PP to 12 |
 | Rare Candy | Hold. Spend it at Makuhita 23 to reach Hariyama |
 | Leppa Berry x2 | Anyone with a free item slot |
-| Guard Spec. | Skip. It only blocks Electrike's Leer |
-| Dire Hit | Skip |
+| Guard Spec., Dire Hit | Skip |
 | Nanab Berry x9 | Nothing until the Pokeblock Case |
-| Orange Mail | Nothing. Harbor Mail is the one that buys the Coin Case |
-
-Buy Super Potions before the gym.
+| Orange Mail | Nothing |
 
 ## Grinding plan
 
-Grind Geodude on Route 110. 82% of the grass can't hurt it. **Oddish (10%) and Wingull
-(8%) hit it for 4x**, and Wingull knows Water Gun from level 7, so switch out when either
-appears. Rates are in [reference.md](reference.md).
+Priority: **Wingull from 15**, then Makuhita toward 24 for Hariyama. Leave Slakoth at 6.
 
 Lead the weak one, switch to Kate, win. Gen 3 splits EXP across everything sent out.
 
-Priority: Makuhita toward 24. Leave Slakoth at 6. Kate, Kadabra, and Taillow keep pace on
-trainer battles alone. Electrike earns nothing in the box.
+Electrike earns nothing in the box.
 
 ## Gym answers
 
 | Gym | Type | Answer on this team |
 |---|---|---|
-| 3 Wattson | Electric | Geodude |
-| 4 Flannery | Fire | Geodude, and Combusken resists Fire |
+| 4 Flannery | Fire | Wingull. Graveler as backup |
 | 5 Norman | Normal | Hariyama |
-| 6 Winona | Flying | Geodude, Manectric |
+| 6 Winona | Flying | Graveler, Manectric |
 | 7 Tate & Liza | Psychic | Kadabra's Thief, 40 power. Catch Heracross |
-| 8 Juan | Water | Manectric. Geodude does nothing here |
+| 8 Juan | Water | Manectric. Graveler does nothing here |
 
 ## TM decisions
 
@@ -112,22 +110,23 @@ trainer battles alone. Electrike earns nothing in the box.
 |---|---|---|
 | TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
 | TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
-| TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Geodude. Rock Throw is free at 11, same power and better accuracy |
-| TM46 Thief | Kadabra, over Disable | Dark is special in Gen 3, so it runs off Kadabra's 120 Sp. Atk. It's the only move on the team that touches Dark types. Disable is 55% accurate. Kadabra holds nothing after this |
-| TM34 Shock Wave | Electrike, once Wattson drops it | Electrike's first Electric attack is Spark at 20 |
+| TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Graveler. Rock Throw was free at 11, same power and better accuracy |
+| TM46 Thief | Kadabra, over Disable | Dark is special in Gen 3, so it runs off Kadabra's 120 Sp. Atk. It's the only move on the team that touches Dark types. Disable is 55% accurate |
+| TM34 Shock Wave | Electrike | Electrike's first Electric attack is Spark at 20 |
 
 ## Roster decisions
 
-- **Wingull is boxed.** It can't learn Surf in Gen 3. Fly is the only HM it takes, and
-  Taillow covers that. It also duplicates Taillow's typing with a third of the Attack.
-- **Slakoth stays.** Only Slakoth learns Cut. Vigoroth at 18 swaps Truant for Vital
-  Spirit if it ever gets trained.
+- **Wingull is back** at his son's request, and it's also the right call for gym 4. Water
+  is 4x on Numel and Camerupt, and Water/Flying can't be hit by their Ground moves.
+- **Wingull can't learn Surf in Gen 3.** Fly is the only HM it takes. Hariyama carries
+  Surf later.
+- **Slakoth is boxed** but stays the Cut carrier. Only Slakoth learns Cut.
 - **Makuhita keeps Vital Throw over Arm Thrust.** 70 power and never misses, against an
   average of 45 from Arm Thrust. Makuhita's base Speed is 25, so -1 priority costs
   nothing.
-- **Hariyama is the future Surf carrier.**
-- **Skip the Slateport Swagger tutor.** Swagger raises the target's Attack by 2. The
-  confusion self-hits only half the time.
+- **Kadabra plan:** Psybeam over Confusion at 21. Skip Reflect at 23 and Recover at 25,
+  then buy Recover back at the Fallarbor Move Reminder once Fly replaces Teleport after
+  gym 6.
 - **Electrike is the only Electric type until New Mauville**, which needs Norman's
   Balance Badge plus Surf.
 - **Sableye** has no weaknesses in Gen 3. Catch one in Granite Cave for the dex, don't
