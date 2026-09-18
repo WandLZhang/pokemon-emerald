@@ -76,7 +76,7 @@ Numel and Camerupt are Fire/Ground, so Water is 4x on both. Every one of them ca
 Sunny Day, which halves Water damage. Torkoal's White Herb cancels Overheat's own Sp. Atk
 drop.
 
-Gym trainers: Slugma and Numel at lv22-23, one Kecleon 23, one Meditite 23. No held
+Gym trainers: Slugma at 22-23, Numel at 23, one Kecleon 23, one Meditite 23. No held
 items.
 
 ### Pre-gym, Wally, outside the Mauville gym
@@ -244,16 +244,15 @@ Balance Badge from Norman**. Three fake item balls are lv25 Voltorb.
 |---|---|---|
 | Exp. Share | Mr. Stone, Devon Corp 3F, Rustboro | Deliver the Letter to Steven |
 | TM47 Steel Wing | Steven, Granite Cave | Deliver the Letter |
-| TM46 Thief | Aqua grunt, Oceanic Museum 1F | Beat both grunts on 2F. He hands it over, then flees |
+| TM46 Thief | Aqua grunt, Oceanic Museum 1F | Given as soon as you walk in, before you go upstairs. He flees right after |
 | Repeat Ball | Devon researcher, Route 116 | Deliver the Devon Goods. Also unlocks Repeat and Timer Ball sales in Rustboro |
 | Coin Case | Woman near the Mauville Mart | Trade a Harbor Mail from the Slateport Mart |
-| HM06 Rock Smash | Scientist, southeast house in Mauville | Field use needs the Dynamo Badge |
 | Itemfinder | Rival, Route 110 | Win the battle |
 | TM24 Thunderbolt | Wattson | Finish the New Mauville errand, or 4000 Game Corner coins |
 | Pokeblock Case | Lilycove Contest Hall | Needed to enter the Safari Zone |
 | HM04 Strength | Wanda's boyfriend, mid Rusturf Tunnel | Break the rocks with Rock Smash first. Field use needs the **Heat Badge**, gym 4 |
 | HM06 Rock Smash | Rock Smash Guy, southeastern house in Mauville | No prerequisite. Field use needs the Dynamo Badge |
-| HM02 Fly | Route 119 | Field use needs the **Feather Badge**, gym 6 |
+| HM02 Fly | Brendan or May hands it over after the Route 119 battle | Field use needs the **Feather Badge**, gym 6 |
 | TM43 Secret Power | Route 111 north | Also unlocks Secret Bases |
 | Soot Sack | Glass Workshop, Route 113 | Collects volcanic ash |
 
