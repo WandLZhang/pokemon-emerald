@@ -128,9 +128,9 @@ Next milestone per Pokemon:
 | Taillow | Double Team | 19 | Swellow 22 |
 | Makuhita | Fake Out | 19 | Hariyama 24 |
 | Geodude | Rollout **29**, as Graveler | 29 | Graveler 25. It evolves first, so the lv26 Geodude entry never fires |
-| Electrike | Spark | 20 | Manectric 26 |
-| Slakoth | Faint Attack | 19 | Vigoroth 18 |
-| Wingull | Supersonic | 19 | Pelipper 25 |
+| Electrike | Quick Attack 17, then **Spark 20** | 17 | Manectric 26 |
+| Slakoth | Encore | 7 | Vigoroth 18. Evolving skips Faint Attack 19, since Vigoroth learns Fury Swipes at 19 instead |
+| Wingull | Mist | 21 | Pelipper 25. Supersonic is level 7, not 19 |
 
 Full runs:
 
