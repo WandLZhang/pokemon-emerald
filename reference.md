@@ -105,7 +105,7 @@ Slugma is pure Fire, so Rock Throw is 2x there.
 | Magnitude | Ground | 10-150 | 100 | 30 | Averages 71 power, 106 with STAB. Doubles against a target in Dig |
 | Rock Throw | Rock | 50 | 90 | 15 | Free on Geodude at 11 |
 | Rock Tomb | Rock | 50 | 80 | 10 | Lowers Speed by 1 |
-| Steel Wing | Steel | 70 | 90 | 25 | Physical in Gen 3 |
+| Steel Wing | Steel | 70 | 90 | 25 | Physical in Gen 3. 10% chance to raise the user's Defense by one stage |
 | Thief | Dark | 40 | 100 | 10 | **Special**, since Dark is a special type in Gen 3. The user must hold nothing |
 | Swagger | Normal | — | 90 | 15 | Confuses the target and raises its Attack by 2 |
 | Disable | Normal | — | **55** | 20 | Blocks the target's last move for 2-5 turns. Fails on a fresh switch-in and ends if they switch out. 80% in Gen 4, 100% in Gen 5+ |
