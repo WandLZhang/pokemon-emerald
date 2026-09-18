@@ -15,8 +15,11 @@ Game data: [reference.md](reference.md).
 Route 111 south, Route 112 south, Fiery Path, Route 112 north, Route 111 north,
 Route 113, Fallarbor Town, Route 114, Meteor Falls.
 
-0. **Rusturf Tunnel first.** Go **west** on Route 117 to Verdanturf, not north. Swap
-   Slakoth in, since it's the only Rock Smash carrier. Break the construction rocks in
+0. **Get HM06 Rock Smash.** Southeastern house in Mauville, from the Rock Smash Guy.
+   Free, no conditions. **You don't have it yet.** Teach it to Slakoth.
+1. **Rusturf Tunnel.** Go **west** on Route 117 to Verdanturf, not north. Swap Slakoth in
+   for Taillow, since Slakoth is the only Rock Smash carrier and Taillow's Wing Attack is
+   0.5x on Geodude. Break the construction rocks in
    the middle and Wanda's boyfriend gives **HM04 Strength**. Also a Max Ether and a Poke
    Ball. **Hiker Mike has two Geodude and a Machop at lv16** — Water Gun is 4x on
    Geodude, so this is the best Wingull training available. Wild Whismur lv5-8 only.
@@ -45,9 +48,12 @@ Two gates:
 
 Boxed: Slakoth lv6, Electrike.
 
-**Slakoth carries all three field HMs: Cut, Strength, Rock Smash.** Nothing in the active
-party knows any of them. Pull Slakoth out of the PC whenever a tree or a boulder blocks
+**Slakoth is the field HM carrier: Cut, and Rock Smash once you buy the HM.** Nothing in
+the active party knows either. Pull Slakoth out of the PC when a tree or a boulder blocks
 you, then put it back.
+
+**Box Taillow when Slakoth comes in.** Pelipper learns both Fly and Surf, so Taillow's
+only long-term job is already covered.
 
 ## Gym 4: Flannery, Lavaridge
 
@@ -75,7 +81,7 @@ Gym trainers run Slugma and Numel at lv22-23, plus a Kecleon and a Meditite at 2
 | Item | Goes to |
 |---|---|
 | Exp. Share | **Wingull**, until it catches up. Graveler doesn't need it |
-| HM06 Rock Smash | Slakoth has it. Southeastern Mauville house if you still need the HM |
+| HM06 Rock Smash | **Not obtained.** Southeastern house in Mauville, from the Rock Smash Guy |
 | TM34 Shock Wave | Electrike, when you train it |
 | Cheri Berry x4 | Spare. Nothing in gym 4 paralyzes |
 | Full Heal | Bag |
