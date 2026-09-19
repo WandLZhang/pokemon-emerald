@@ -27,36 +27,7 @@ Gen 3 data only. Emerald differences from Ruby and Sapphire are called out.
 
 ## Gym leaders
 
-### Gym 2, Brawly, Dewford
-
-Reward: Knuckle Badge, TM08 Bulk Up, $1,900. Emerald adds a third Pokemon, Meditite,
-over Ruby and Sapphire.
-
-### Gym 3, Wattson, Mauville
-
-Emerald only. Ruby and Sapphire give him Magnemite 22, Voltorb 20, Magneton 23 instead.
-
-| Pokemon | Lv | Ability | Item | Moves |
-|---|---|---|---|---|
-| Voltorb | 20 | Soundproof | none | Rollout, Spark, Selfdestruct, Shock Wave |
-| Electrike | 20 | Static | none | Shock Wave, Leer, Quick Attack, Howl |
-| Magneton | 22 | Magnet Pull | none | Supersonic, Shock Wave, Thunder Wave, SonicBoom |
-| Manectric | 24 | Static | Sitrus Berry | Quick Attack, Thunder Wave, Shock Wave, Howl |
-
-He uses two Super Potions. Reward: Dynamo Badge (Rock Smash in the field, +10% Speed),
-TM34 Shock Wave, $2400.
-
-Gym trainers, all lv17 with no held items:
-
-| Trainer | Team | Doubles with |
-|---|---|---|
-| Battle Girl Vivian | Meditite 17, Meditite 17 | Kirk |
-| Guitarist Kirk | Electrike 17, Voltorb 17 | Vivian |
-| Youngster Ben | Zigzagoon 17, Gulpin 17 | — |
-| Bug Maniac Angelo | Illumise 17, Volbeat 17 | Shawn |
-| Guitarist Shawn | Voltorb 17, Magnemite 17 | Angelo |
-
-Fire and Fighting both hit Magneton for 2x.
+Beaten gyms are deleted from this file. Badge effects live in the rules list above.
 
 ### Gym 4, Flannery, Lavaridge
 
@@ -78,23 +49,6 @@ drop.
 
 Gym trainers: Slugma at 22-23, Numel at 23, one Kecleon 23, one Meditite 23. No held
 items.
-
-### Pre-gym, Wally, outside the Mauville gym
-
-Ralts 16. Growl, Confusion, Double Team, Teleport. He blocks the gym door.
-
-### Rival, Route 110, Torchic pick
-
-Emerald only. Ruby and Sapphire give Shroomish and Numel instead.
-
-| Pokemon | Lv | Type | Moves |
-|---|---|---|---|
-| Lombre | 18 | Water/Grass | Astonish, Growl, Absorb, Nature Power |
-| Slugma | 18 | Fire | Yawn, Smog, Ember, Rock Throw |
-| Marshtomp | 20 | Water/Ground | Water Gun, Bide, Mud Shot, Foresight |
-
-Reward is the Itemfinder and $1200. Lombre and Marshtomp both hit Geodude for 4x.
-Slugma is pure Fire, so Rock Throw is 2x there.
 
 ## Move data
 
@@ -197,21 +151,6 @@ Cut is the bottleneck. Slakoth is the only carrier on the team.
 (Sapphire and Emerald, Ruby needs a trade) and Aron. Steven's room needs only Flash. B2F
 needs the Mach Bike. Steven gives TM47 Steel Wing for the Letter.
 
-**Route 110**, Emerald grass. Zigzagoon is the Ruby and Sapphire slot. Emerald swaps in
-Poochyena.
-
-| Pokemon | Lv | Rate | vs Geodude |
-|---|---|---|---|
-| Electrike | 12-13 | 30% | immune |
-| Poochyena | 12 | 20% | neutral, but it only has Tackle and Howl early |
-| Minun | 13 | 15% | immune |
-| Gulpin | 12-13 | 15% | resisted |
-| **Oddish** | 13 | 10% | **4x** |
-| **Wingull** | 12 | 8% | **4x** |
-| Plusle | 12-13 | 2% | immune |
-
-Surfing gives Tentacool, Wingull, Pelipper.
-
 **Hoenn Safari Zone.** Entrance is north of Route 121, so it opens after Winona. $500
 for 30 Safari Balls, 500-step limit, and it needs the Pokeblock Case. In Emerald the case
 comes from the Lilycove Contest Hall. Ruby and Sapphire give it in Slateport.
@@ -242,12 +181,8 @@ Balance Badge from Norman**. Three fake item balls are lv25 Voltorb.
 
 | Item | Where | Trigger |
 |---|---|---|
-| Exp. Share | Mr. Stone, Devon Corp 3F, Rustboro | Deliver the Letter to Steven |
-| TM47 Steel Wing | Steven, Granite Cave | Deliver the Letter |
-| TM46 Thief | Aqua grunt, Oceanic Museum 1F | Given as soon as you walk in, before you go upstairs. He flees right after |
-| Repeat Ball | Devon researcher, Route 116 | Deliver the Devon Goods. Also unlocks Repeat and Timer Ball sales in Rustboro |
+| Repeat Ball | Devon researcher, Route 116 | Also unlocks Repeat and Timer Ball sales in Rustboro |
 | Coin Case | Woman near the Mauville Mart | Trade a Harbor Mail from the Slateport Mart |
-| Itemfinder | Rival, Route 110 | Win the battle |
 | TM24 Thunderbolt | Wattson | Finish the New Mauville errand, or 4000 Game Corner coins |
 | Pokeblock Case | Lilycove Contest Hall | Needed to enter the Safari Zone |
 | HM04 Strength | Wanda's boyfriend, mid Rusturf Tunnel | Break the rocks with Rock Smash first. Field use needs the **Heat Badge**, gym 4 |
@@ -264,14 +199,6 @@ Balance Badge from Norman**. Three fake item balls are lv25 Voltorb.
 | Cheri Berry | Held. Cures paralysis on its own, then it's gone |
 | Guard Spec. | Mist on your side for 5 turns. Blocks stat drops from opponents, not your own |
 | Elixir | Restores 10 PP to every move |
-
-## Mr. Briney's ferry
-
-Petalburg (his cottage on Route 104) and Dewford unlock after Peeko is rescued.
-Slateport unlocks after the Letter reaches Steven. He retires once you take the Balance
-Badge from Norman, then reappears on the S.S. Tidal.
-
-Petalburg and Slateport don't connect directly. Everything routes through Dewford.
 
 ## Thief targets
 
@@ -297,8 +224,6 @@ Zone, so you have to catch one. Wild Clamperl hold Blue Shards, not the Deep Sea
 
 ## Easy Chat
 
-- **Pokemon Fan Club interview, Slateport.** Cosmetic. The words go into a TV program
-  verbatim. Only the lead Pokemon changes which broadcast plays.
 - **Dewford Hall trendy phrase.** Sets which six tiles of the Route 119 river hold
   Feebas.
 - **Mystery Gift.** Answer the Poke Mart questionnaire with LINK TOGETHER WITH ALL.
@@ -306,22 +231,19 @@ Zone, so you have to catch one. Wild Clamperl hold Blue Shards, not the Deep Sea
 ## Sources
 
 - [Emerald gym leaders and Elite Four, Pokemon Database](https://pokemondb.net/emerald/gymleaders-elitefour)
-- [Emerald updated gyms, Serebii](https://www.serebii.net/emerald/gym.shtml)
-- [Mauville Gym](https://bulbapedia.bulbagarden.net/wiki/Mauville_Gym)
-- [Dewford Gym](https://bulbapedia.bulbagarden.net/wiki/Dewford_Gym)
+- [Lavaridge Gym](https://bulbapedia.bulbagarden.net/wiki/Lavaridge_Gym)
 - [Granite Cave](https://bulbapedia.bulbagarden.net/wiki/Granite_Cave)
-- [Oceanic Museum](https://bulbapedia.bulbagarden.net/wiki/Oceanic_Museum)
-- [Stern's Shipyard](https://bulbapedia.bulbagarden.net/wiki/Stern's_Shipyard)
+- [Rusturf Tunnel](https://bulbapedia.bulbagarden.net/wiki/Rusturf_Tunnel), [Hoenn Route 117](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Route_117), [Hoenn Route 111](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Route_111)
 - [New Mauville](https://bulbapedia.bulbagarden.net/wiki/New_Mauville)
 - [Hoenn Safari Zone](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Safari_Zone)
-- [Mr. Briney](https://bulbapedia.bulbagarden.net/wiki/Mr._Briney)
-- [Trick House](https://bulbapedia.bulbagarden.net/wiki/Trick_House)
-- [Hoenn Route 110](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Route_110), [Hoenn Route 103](https://bulbapedia.bulbagarden.net/wiki/Hoenn_Route_103)
-- [Emerald walkthrough part 3](https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Emerald/Part_3), [part 4](https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Emerald/Part_4), [part 5](https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Emerald/Part_5)
+- [Emerald walkthrough part 6](https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Emerald/Part_6)
+- HMs: [HM02 Fly](https://bulbapedia.bulbagarden.net/wiki/HM02), [HM04 Strength](https://bulbapedia.bulbagarden.net/wiki/HM04), [Move Reminder](https://bulbapedia.bulbagarden.net/wiki/Move_Reminder)
 - Gen III learnsets: [Combusken](https://bulbapedia.bulbagarden.net/wiki/Combusken_(Pok%C3%A9mon)/Generation_III_learnset), [Geodude](https://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon)/Generation_III_learnset), [Graveler](https://bulbapedia.bulbagarden.net/wiki/Graveler_(Pok%C3%A9mon)/Generation_III_learnset), [Makuhita](https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pok%C3%A9mon)/Generation_III_learnset), [Taillow](https://bulbapedia.bulbagarden.net/wiki/Taillow_(Pok%C3%A9mon)/Generation_III_learnset), [Wingull](https://bulbapedia.bulbagarden.net/wiki/Wingull_(Pok%C3%A9mon)/Generation_III_learnset), [Kadabra](https://bulbapedia.bulbagarden.net/wiki/Kadabra_(Pok%C3%A9mon)/Generation_III_learnset), [Slakoth](https://bulbapedia.bulbagarden.net/wiki/Slakoth_(Pok%C3%A9mon)/Generation_III_learnset), [Electrike](https://bulbapedia.bulbagarden.net/wiki/Electrike_(Pok%C3%A9mon)/Generation_III_learnset), [Oddish](https://bulbapedia.bulbagarden.net/wiki/Oddish_(Pok%C3%A9mon)/Generation_III_learnset)
 - Moves: [Vital Throw](https://bulbapedia.bulbagarden.net/wiki/Vital_Throw_(move)), [Arm Thrust](https://bulbapedia.bulbagarden.net/wiki/Arm_Thrust_(move)), [Magnitude](https://bulbapedia.bulbagarden.net/wiki/Magnitude_(move)), [Mud Sport](https://bulbapedia.bulbagarden.net/wiki/Mud_Sport_(move)), [Thief](https://bulbapedia.bulbagarden.net/wiki/Thief_(move)), [Swagger](https://bulbapedia.bulbagarden.net/wiki/Swagger_(move)), [Thunder Wave](https://bulbapedia.bulbagarden.net/wiki/Thunder_Wave_(move))
 - [Contact](https://bulbapedia.bulbagarden.net/wiki/Contact), [Confusion](https://bulbapedia.bulbagarden.net/wiki/Confusion_(status_condition))
 - [Wild held items](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_wild_held_item)
 - Items: [PP Up](https://bulbapedia.bulbagarden.net/wiki/PP_Up), [Cheri Berry](https://bulbapedia.bulbagarden.net/wiki/Cheri_Berry), [Guard Spec.](https://bulbapedia.bulbagarden.net/wiki/Guard_Spec.)
 - [Easy chat system](https://bulbapedia.bulbagarden.net/wiki/Easy_chat_system), [Trend](https://bulbapedia.bulbagarden.net/wiki/Trend)
-- [Route 110 encounters, Serebii](https://www.serebii.net/pokearth/hoenn/3rd/route110.shtml)
+- Items: [Quick Claw](https://bulbapedia.bulbagarden.net/wiki/Quick_Claw), [Compound Eyes](https://bulbapedia.bulbagarden.net/wiki/Compound_Eyes_(Ability))
+- Moves: [Rock Throw](https://bulbapedia.bulbagarden.net/wiki/Rock_Throw_(move)), [Rock Tomb](https://bulbapedia.bulbagarden.net/wiki/Rock_Tomb_(move)), [Steel Wing](https://bulbapedia.bulbagarden.net/wiki/Steel_Wing_(move)), [Shock Wave](https://bulbapedia.bulbagarden.net/wiki/Shock_Wave_(move)), [Disable](https://bulbapedia.bulbagarden.net/wiki/Disable_(move)), [Teleport](https://bulbapedia.bulbagarden.net/wiki/Teleport_(move))
+- Gen III learnsets, also: [Pelipper](https://bulbapedia.bulbagarden.net/wiki/Pelipper_(Pok%C3%A9mon)/Generation_III_learnset)

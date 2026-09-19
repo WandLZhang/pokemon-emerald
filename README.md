@@ -6,59 +6,89 @@ Game data: [reference.md](reference.md).
 
 ## Progress
 
-- **Badges:** Stone (Roxanne), Knuckle (Brawly), **Dynamo (Wattson)**
-- **Position:** Mauville. Heading north to Route 111
+- **Badges:** Stone, Knuckle, Dynamo
+- **Position:** Mauville
 - **Next gym:** Flannery, Lavaridge, Fire
 
 ## Route ahead
 
-Route 111 south, Route 112 south, Fiery Path, Route 112 north, Route 111 north,
-Route 113, Fallarbor Town, Route 114, Meteor Falls.
+**Blocker: you don't have HM06 Rock Smash.** Southeastern house in Mauville, from the
+Rock Smash Guy. Free, no conditions. Teach it to Slakoth.
 
-0. **Get HM06 Rock Smash.** Southeastern house in Mauville, from the Rock Smash Guy.
-   Free, no conditions. **You don't have it yet.** Teach it to Slakoth.
-1. **Rusturf Tunnel.** Go **west** on Route 117 to Verdanturf, not north. Swap Slakoth in
-   for Taillow, since Slakoth is the only Rock Smash carrier and Taillow's Wing Attack is
-   0.5x on Geodude. Break the construction rocks in
-   the middle and Wanda's boyfriend gives **HM04 Strength**. Also a Max Ether and a Poke
-   Ball. **Hiker Mike has two Geodude and a Machop at lv16** — Water Gun is 4x on
-   Geodude, so this is the best Wingull training available. Wild Whismur lv5-8 only.
-2. **Route 111 north: TM43 Secret Power.** Unlocks Secret Bases.
-3. **Route 113** is the ash route. Take the **Soot Sack** from the Glass Workshop.
-4. **Fallarbor Town** has the **Move Reminder**, one Heart Scale per move. This is where
-   Kadabra buys Recover back.
-5. **Route 114**, then Meteor Falls.
+1. **Get HM06.** Then swap Slakoth in and box Taillow.
+2. **Route 117, west toward Verdanturf.** Roster below. The two Breeders field six
+   lv11 Pokemon each, which is the best Wingull EXP available.
+3. **Rusturf Tunnel.** Smash the rocks in the middle. Wanda's boyfriend gives **HM04
+   Strength**. Also a Max Ether and a Poke Ball. **Hiker Mike has two Geodude and a
+   Machop at lv16**, and Water Gun is 4x on Geodude. Wild Whismur lv5-8 only.
+4. **Back to Mauville, then north:** Route 111 → Route 112 → Fiery Path → Route 112 north
+   → Route 111 north → Route 113 → Fallarbor → Route 114 → Meteor Falls.
+   - Route 111 north has **TM43 Secret Power**, which unlocks Secret Bases.
+   - Route 113 is the ash route. Take the **Soot Sack** from the Glass Workshop.
+   - Fallarbor has the **Move Reminder**, one Heart Scale per move. Kadabra buys Recover
+     back here.
 
-Two gates:
+### Locked, come back later
 
-- **Strength needs the Heat Badge**, which is gym 4. The Fiery Path boulder rooms are a
-  return trip. Walk the main tunnel for now.
-- Lavaridge and Jagged Pass sit west of Route 112 and aren't reachable yet.
+| Blocked | Needs | Unlocks at |
+|---|---|---|
+| Fiery Path side rooms | Strength in the field | Gym 4, Heat Badge |
+| Route 111 desert, fossils, TM37 | Go-Goggles | After gym 4. Optional, loop via Route 112 |
+| Lavaridge, Jagged Pass from Route 112 | Story, through Mt. Chimney | Soon |
+| Water routes, New Mauville | Surf | After gym 5, Norman |
+
+You collect HM04 at step 3 but can't use Strength outside battle until gym 4.
 
 ## Party
 
 | Slot | Name | Species | Lv | Moves | Holding |
 |---|---|---|---|---|---|
 | 1 | Kate | Combusken | 18 | Ember, Double Kick, Rock Tomb | — |
-| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, **Thief** | nothing |
+| 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, Thief | nothing |
 | 3 | Tylo | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck | — |
 | 4 | Makuhita | Makuhita | 17 | Vital Throw, Arm Thrust, Bulk Up | — |
-| 5 | Graveler | Graveler | 26 | Magnitude, Rock Throw, Tackle, Defense Curl | **Quick Claw** |
-| 6 | GAT | Wingull | 15 | Wing Attack, Water Gun, Supersonic, Growl | **Exp. Share** |
+| 5 | Graveler | Graveler | 26 | Magnitude, Rock Throw, Tackle, Defense Curl | Quick Claw |
+| 6 | GAT | Wingull | 15 | Wing Attack, Water Gun, Supersonic, Growl | Exp. Share |
 
 Boxed: Slakoth lv6, Electrike.
 
-**Slakoth is the field HM carrier: Cut, and Rock Smash once you buy the HM.** Nothing in
-the active party knows either. Pull Slakoth out of the PC when a tree or a boulder blocks
-you, then put it back.
+**Slakoth is the only Cut and Rock Smash carrier.** Pull it from the PC when a tree or
+boulder blocks you. Box Taillow to make room: Pelipper learns both Fly and Surf, so
+Taillow's long-term job is already covered.
 
-**Box Taillow when Slakoth comes in.** Pelipper learns both Fly and Surf, so Taillow's
-only long-term job is already covered.
+## Route 117 trainers
+
+| Trainer | Team |
+|---|---|
+| Triathlete Dylan | Doduo ♂ 17 |
+| Sr. and Jr. Anna & Meg | Zigzagoon ♂ 15, Makuhita ♂ 17 |
+| **Breeder Isaac** | Whismur, Zigzagoon, Aron, Poochyena, Taillow, Makuhita, all lv11 |
+| Triathlete Maria | Doduo ♀ 17 |
+| Bug Maniac Derek | Dustox ♂ 16, Beautifly ♂ 16 |
+| Psychic Brandi | Ralts ♀ 17 |
+| Triathlete Melina | Doduo ♀ 17 |
+| Battle Girl Aisha | Meditite ♀ 17 |
+| **Breeder Lydia** | Wingull, Shroomish, Marill, Roselia, Skitty, Goldeen, all lv11 |
+
+Doubles: Brandi with Melina, or Melina with Aisha. Nothing holds an item.
+
+- **Graveler** takes the three Doduo and Derek's Bug pair. Use **Rock Throw** on the Bugs,
+  since Magnitude is 0.5x there.
+- **Keep Graveler away from Aisha's Meditite and Anna & Meg's Makuhita.** Fighting is 2x
+  on Rock, and Meditite's Pure Power doubles its Attack.
+- **Brandi's Ralts is pure Psychic**, so Kadabra's Thief is 2x.
+- **Lead Kate against Lydia.** Ember handles Shroomish and Roselia.
+
+Items: **Revive** above the top flower patch, needs Cut. **Great Ball** below the lower
+flower patch, with a hidden **Repel** nearby. Wepear Berry x9 in the soft soil east.
+
+Wild grass: Oddish 13-14 (40%), Poochyena 13-14 (30%), Illumise 13-14 (18%), Marill 13
+(10%), Seedot and Volbeat 13 (1% each). **Marill is worth a Ball** if you want a second
+Water type, since Azumarill learns Surf.
 
 ## Gym 4: Flannery, Lavaridge
 
-Every one of her Pokemon knows **Overheat** and **Sunny Day**. Sunny Day halves Water
-damage, so budget an extra turn.
+All four know **Overheat** and **Sunny Day**. Sunny Day halves Water damage.
 
 | Pokemon | Lv | Ability | Item | Water Gun |
 |---|---|---|---|---|
@@ -67,81 +97,63 @@ damage, so budget an extra turn.
 | Camerupt (Fire/Ground) | 26 | Magma Armor | — | **4x** |
 | Torkoal (Fire) | 29 | White Smoke | White Herb | 2x |
 
-She uses two Hyper Potions. Reward: Heat Badge, TM50 Overheat, $2,900.
+Two Hyper Potions. Reward: Heat Badge, TM50 Overheat, $2,900.
 
-**Wingull is the lead.** Water/Flying is immune to Ground, so Numel's Magnitude can't
-touch it, and Water resists Overheat. Graveler is only 2x here and takes 2x back from
-both Fire/Grounds. Torkoal's White Herb undoes Overheat's own Sp. Atk drop, so it keeps
-hitting hard.
+**Wingull leads.** Water/Flying is immune to Ground, so Numel's Magnitude can't touch it,
+and Water resists Overheat. Graveler is only 2x here and takes 2x back from both
+Fire/Grounds.
 
-Gym trainers run Slugma and Numel at lv22-23, plus a Kecleon and a Meditite at 23.
+Gym trainers: Slugma 22-23, Numel 23, one Kecleon 23, one Meditite 23.
 
 ## Items on hand
 
 | Item | Goes to |
 |---|---|
-| Exp. Share | **Wingull**, until it catches up. Graveler doesn't need it |
-| HM06 Rock Smash | **Not obtained.** Southeastern house in Mauville, from the Rock Smash Guy |
+| Exp. Share | Wingull, until it catches up |
+| Quick Claw | Graveler. 20% to move first on base 35 Speed |
 | TM34 Shock Wave | Electrike, when you train it |
-| Cheri Berry x4 | Spare. Nothing in gym 4 paralyzes |
-| Full Heal | Bag |
-| Revive | Bag |
-| Elixir | Bag |
 | PP Up | Makuhita's Vital Throw, 10 PP to 12 |
 | Rare Candy | Hold. Spend it at Makuhita 23 to reach Hariyama |
-| Leppa Berry x2 | Anyone with a free item slot |
+| Cheri Berry x4, Leppa Berry x2 | Spare |
+| Full Heal, Revive, Elixir | Bag |
 | Guard Spec., Dire Hit | Skip |
 | Nanab Berry x9 | Nothing until the Pokeblock Case |
-| Orange Mail | Nothing |
 
-## Grinding plan
+## Training
 
-Priority: **Wingull from 15**, then Makuhita toward 24 for Hariyama. Leave Slakoth at 6.
+**Exp. Share stays on Wingull.** It's 15, everyone else is 17 to 26.
+
+- **Wingull → Pelipper at 25.** Weak until then, best Water attacker after.
+- **Makuhita → Hariyama at 24.** Stats double.
+- **Graveler 26** needs nothing.
 
 Lead the weak one, switch to Kate, win. Gen 3 splits EXP across everything sent out.
-
 Electrike earns nothing in the box.
 
 ## Gym answers
 
-| Gym | Type | Answer on this team |
+| Gym | Type | Answer |
 |---|---|---|
-| 4 Flannery | Fire | Wingull. Graveler as backup |
+| 4 Flannery | Fire | Wingull. Graveler backup |
 | 5 Norman | Normal | Hariyama |
 | 6 Winona | Flying | Graveler, Manectric |
 | 7 Tate & Liza | Psychic | Kadabra's Thief, 40 power. Catch Heracross |
-| 8 Juan | Water | Manectric. Graveler does nothing here |
+| 8 Juan | Water | Manectric. Graveler does nothing |
 
-## TM decisions
+## Decisions made
 
-| TM | Goes to | Why |
-|---|---|---|
-| TM47 Steel Wing | Taillow, over Focus Energy | Steel is physical in Gen 3. Taillow's Attack is 55, Wingull's is 30 |
-| TM08 Bulk Up | Makuhita | Combusken learns it free at 28. Makuhita never learns it by level |
-| TM39 Rock Tomb | Combusken, over Peck | Don't spend it on Graveler. Rock Throw was free at 11, same power and better accuracy |
-| TM46 Thief | Kadabra, over Disable | Dark is special in Gen 3, so it runs off Kadabra's 120 Sp. Atk. It's the only move on the team that touches Dark types. Disable is 55% accurate |
-| TM34 Shock Wave | Electrike | Electrike's first Electric attack is Spark at 20 |
-
-## Roster decisions
-
-- **Wingull is back** at his son's request, and it's also the right call for gym 4. Water
-  is 4x on Numel and Camerupt, and Water/Flying can't be hit by their Ground moves.
-- **Pelipper is the Surf carrier, not Hariyama.** Wingull itself can't learn Surf, but
-  Pelipper can, and it gets STAB. Pelipper's Sp. Atk is 85 against Hariyama's 40.
-- **Wingull's ceiling is Surf.** Water Gun at 40 power is its only Water move by level,
-  forever. TM03 Water Pulse comes from Juan at gym 8 and Hydro Pump is level 61. So
-  Wingull is weak until it hits 25 for Pelipper and you clear Norman for HM03.
-- **Quick Claw goes on Graveler.** 20% to move first in Gen 3, worth most on base 35
-  Speed with base 95 Attack. It can't rescue Makuhita's Vital Throw, which is -1
-  priority, because Quick Claw only reorders inside a priority bracket.
-- **Slakoth is boxed** but stays the Cut carrier. Only Slakoth learns Cut.
+- **TMs spent:** Steel Wing on Taillow, Bulk Up on Makuhita, Rock Tomb on Combusken,
+  Thief on Kadabra over Disable.
+- **Thief went to Kadabra, not Taillow**, because Dark is special in Gen 3 and Kadabra's
+  Sp. Atk is 120 against Taillow's 30.
+- **Pelipper is the Surf carrier, not Hariyama.** Pelipper gets STAB and has 85 Sp. Atk
+  against Hariyama's 40.
+- **Wingull's ceiling is Surf.** Water Gun at 40 power is its only Water move by level.
+- **Kadabra plan:** Psybeam over Confusion at 21. Skip Reflect 23 and Recover 25, then
+  buy Recover at the Fallarbor Move Reminder once Fly replaces Teleport after gym 6.
 - **Makuhita keeps Vital Throw over Arm Thrust.** 70 power and never misses, against an
-  average of 45 from Arm Thrust. Makuhita's base Speed is 25, so -1 priority costs
-  nothing.
-- **Kadabra plan:** Psybeam over Confusion at 21. Skip Reflect at 23 and Recover at 25,
-  then buy Recover back at the Fallarbor Move Reminder once Fly replaces Teleport after
-  gym 6.
-- **Electrike is the only Electric type until New Mauville**, which needs Norman's
-  Balance Badge plus Surf.
-- **Sableye** has no weaknesses in Gen 3. Catch one in Granite Cave for the dex, don't
-  train it.
+  average of 45. Base Speed 25, so -1 priority costs nothing.
+- **Skip the Rollout tutor.** Rollout needs five uninterrupted turns to beat Magnitude.
+- **Electrike is the only Electric type until New Mauville**, which needs Norman's Balance
+  Badge plus Surf.
+- **Sableye** has no weaknesses in Gen 3. Catch one in Granite Cave for the dex.
