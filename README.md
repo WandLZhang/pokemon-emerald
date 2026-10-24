@@ -7,22 +7,23 @@ Game data: [reference.md](reference.md).
 ## Progress
 
 - **Badges:** Stone, Knuckle, Dynamo
-- **Position:** Mauville
+- **Position:** Route 117 cleared. Verdanturf next
 - **Next gym:** Flannery, Lavaridge, Fire
 
 ## Route ahead
 
-**Blocker: you don't have HM06 Rock Smash.** Southeastern house in Mauville, from the
-Rock Smash Guy. Free, no conditions. Teach it to Slakoth.
-
-1. **Get HM06.** Then swap Slakoth in and box Taillow.
-2. **Route 117, west toward Verdanturf.** Roster below. The two Breeders field six
-   lv11 Pokemon each, which is the best Wingull EXP available.
-3. **Rusturf Tunnel.** Smash the rocks in the middle. Wanda's boyfriend gives **HM04
-   Strength**. Also a Max Ether and a Poke Ball. **Hiker Mike has two Geodude and a
-   Machop at lv16**, and Water Gun is 4x on Geodude. Wild Whismur lv5-8 only.
-4. **Back to Mauville, then north:** Route 111 → Route 112 → Fiery Path → Route 112 north
-   → Route 111 north → Route 113 → Fallarbor → Route 114 → Meteor Falls.
+1. **Verdanturf.** Heal at the Pokemon Center. Entering it also makes it Kadabra's
+   Teleport destination. Nothing to collect in town. Skip the Battle Tent. Its prize is
+   one Nest Ball.
+2. **Rusturf Tunnel**, the cave next to the Mart. **Hiker Mike** (two Geodude and a
+   Machop, lv16) and a **Max Ether** sit on your side of the rocks. Water Gun is 4x on
+   Geodude, so lead Wingull. Wild Whismur lv5-8 only.
+3. **HM04 Strength is behind the rocks**, from Wanda's boyfriend. Reaching him needs Rock
+   Smash on Slakoth. No HM06 yet? Get it in Mauville on the way north, from the Rock Smash
+   Guy in the southeastern house. HM04 can wait, since Strength doesn't work outside
+   battle until gym 4.
+4. **Route 117 back to Mauville, then north:** Route 111 → Route 112 → Fiery Path →
+   Route 112 north → Route 111 north → Route 113 → Fallarbor → Route 114 → Meteor Falls.
    - Route 111 north has **TM43 Secret Power**, which unlocks Secret Bases.
    - Route 113 is the ash route. Take the **Soot Sack** from the Glass Workshop.
    - Fallarbor has the **Move Reminder**, one Heart Scale per move. Kadabra buys Recover
@@ -36,8 +37,6 @@ Rock Smash Guy. Free, no conditions. Teach it to Slakoth.
 | Route 111 desert, fossils, TM37 | Go-Goggles | After gym 4. Optional, loop via Route 112 |
 | Lavaridge, Jagged Pass from Route 112 | Story, through Mt. Chimney | Soon |
 | Water routes, New Mauville | Surf | After gym 5, Norman |
-
-You collect HM04 at step 3 but can't use Strength outside battle until gym 4.
 
 ## Party
 
@@ -55,36 +54,6 @@ Boxed: Slakoth lv6, Electrike.
 **Slakoth is the only Cut and Rock Smash carrier.** Pull it from the PC when a tree or
 boulder blocks you. Box Taillow to make room: Pelipper learns both Fly and Surf, so
 Taillow's long-term job is already covered.
-
-## Route 117 trainers
-
-| Trainer | Team |
-|---|---|
-| Triathlete Dylan | Doduo ♂ 17 |
-| Sr. and Jr. Anna & Meg | Zigzagoon ♂ 15, Makuhita ♂ 17 |
-| **Breeder Isaac** | Whismur, Zigzagoon, Aron, Poochyena, Taillow, Makuhita, all lv11 |
-| Triathlete Maria | Doduo ♀ 17 |
-| Bug Maniac Derek | Dustox ♂ 16, Beautifly ♂ 16 |
-| Psychic Brandi | Ralts ♀ 17 |
-| Triathlete Melina | Doduo ♀ 17 |
-| Battle Girl Aisha | Meditite ♀ 17 |
-| **Breeder Lydia** | Wingull, Shroomish, Marill, Roselia, Skitty, Goldeen, all lv11 |
-
-Doubles: Brandi with Melina, or Melina with Aisha. Nothing holds an item.
-
-- **Graveler** takes the three Doduo and Derek's Bug pair. Use **Rock Throw** on the Bugs,
-  since Magnitude is 0.5x there.
-- **Keep Graveler away from Aisha's Meditite and Anna & Meg's Makuhita.** Fighting is 2x
-  on Rock, and Meditite's Pure Power doubles its Attack.
-- **Brandi's Ralts is pure Psychic**, so Kadabra's Thief is 2x.
-- **Lead Kate against Lydia.** Ember handles Shroomish and Roselia.
-
-Items: **Revive** above the top flower patch, needs Cut. **Great Ball** below the lower
-flower patch, with a hidden **Repel** nearby. Wepear Berry x9 in the soft soil east.
-
-Wild grass: Oddish 13-14 (40%), Poochyena 13-14 (30%), Illumise 13-14 (18%), Marill 13
-(10%), Seedot and Volbeat 13 (1% each). **Marill is worth a Ball** if you want a second
-Water type, since Azumarill learns Surf.
 
 ## Gym 4: Flannery, Lavaridge
 
