@@ -15,13 +15,14 @@ Game data: [reference.md](reference.md).
 1. **Verdanturf.** Heal at the Pokemon Center. Entering it also makes it Kadabra's
    Teleport destination. Nothing to collect in town. Skip the Battle Tent. Its prize is
    one Nest Ball.
-2. **Rusturf Tunnel**, the cave next to the Mart. **Hiker Mike** (two Geodude and a
-   Machop, lv16) and a **Max Ether** sit on your side of the rocks. Water Gun is 4x on
-   Geodude, so lead Wingull. Wild Whismur lv5-8 only.
-3. **HM04 Strength is behind the rocks**, from Wanda's boyfriend. Reaching him needs Rock
-   Smash on Slakoth. No HM06 yet? Get it in Mauville on the way north, from the Rock Smash
-   Guy in the southeastern house. HM04 can wait, since Strength doesn't work outside
-   battle until gym 4.
+2. **Rusturf Tunnel**, the cave next to the Mart. **Hiker Mike** is the only trainer: two
+   Geodude and a Machop, lv16. Wingull takes all three. Water Gun is 4x on Geodude, and
+   Wing Attack is 2x on Machop. A **Max Ether** sits in the top-right corner. Both are on
+   your side of the rocks. Wild Whismur lv5-8 only.
+3. **Smash the boulder next to Wanda** with Slakoth's Rock Smash. A scene starts and her
+   boyfriend hands over **HM04 Strength**. Neither of them is a trainer. No HM06 yet? Get
+   it in Mauville on the way north, from the Rock Smash Guy in the southeastern house.
+   HM04 can wait, since Strength doesn't work outside battle until gym 4.
 4. **Route 117 back to Mauville, then north:** Route 111 → Route 112 → Fiery Path →
    Route 112 north → Route 111 north → Route 113 → Fallarbor → Route 114 → Meteor Falls.
    - Route 111 north has **TM43 Secret Power**, which unlocks Secret Bases.
