@@ -21,9 +21,14 @@ Game data: [reference.md](reference.md).
      Four battles follow back to back with no healing between them, so heal first. Lose
      one and the whole set restarts from Victor. Afterward, talk to Victoria inside for
      the Macho Brace.
-   - Four more trainers on this stretch, one Pokemon each: Tyron (Sandshrew 19), Celina
-     (Roselia 18), Bianca (Shroomish 18), Hayden (Numel 18). Wingull takes Sandshrew and
-     Numel. Kate's Ember takes Roselia and Shroomish.
+   - **First two, facing each other just north of Mauville:** Aroma Lady Celina on the
+     left (Roselia 18) and Camper Tyron on the right (Sandshrew 19). Walking between them
+     makes them team up for a double battle. Put Kate and Wingull at the top of the
+     party. Kate's Ember goes on Roselia, Wingull's Water Gun on Sandshrew. Keep Graveler
+     out, since Mega Drain is 4x on it.
+   - **Next two:** Picnicker Bianca (Shroomish 18) and Kindler Hayden (Numel 18). They
+     can also team up if both see you at once. Kate's Ember on Shroomish, Wingull's Water
+     Gun on Numel.
 3. **The desert blocks the way north.** Without Go-Goggles the sandstorm pushes you back.
    Turn west at the Route 112 sign.
 4. **Route 112 → Fiery Path → Route 112 north → Route 111 north → Route 113 → Fallarbor
