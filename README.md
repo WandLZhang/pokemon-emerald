@@ -7,28 +7,44 @@ Game data: [reference.md](reference.md).
 ## Progress
 
 - **Badges:** Stone, Knuckle, Dynamo
-- **Position:** Route 117 cleared. Verdanturf next
+- **Position:** Rusturf done, HM04 Strength in the bag. Back to Mauville, then north
 - **Next gym:** Flannery, Lavaridge, Fire
 
 ## Route ahead
 
-1. **Verdanturf.** Heal at the Pokemon Center. Entering it also makes it Kadabra's
-   Teleport destination. Nothing to collect in town. Skip the Battle Tent. Its prize is
-   one Nest Ball.
-2. **Rusturf Tunnel**, the cave next to the Mart. **Hiker Mike** is the only trainer: two
-   Geodude and a Machop, lv16. Wingull takes all three. Water Gun is 4x on Geodude, and
-   Wing Attack is 2x on Machop. A **Max Ether** sits in the top-right corner. Both are on
-   your side of the rocks. Wild Whismur lv5-8 only.
-3. **Smash the boulder next to Wanda** with Slakoth's Rock Smash. A scene starts and her
-   boyfriend hands over **HM04 Strength**. Neither of them is a trainer. No HM06 yet? Get
-   it in Mauville on the way north, from the Rock Smash Guy in the southeastern house.
-   HM04 can wait, since Strength doesn't work outside battle until gym 4.
-4. **Route 117 back to Mauville, then north:** Route 111 → Route 112 → Fiery Path →
-   Route 112 north → Route 111 north → Route 113 → Fallarbor → Route 114 → Meteor Falls.
+1. **Mauville.** Heal. No bike yet? Rydel's Cycles gives one free. Take the Mach Bike.
+2. **Route 111, north out of Mauville.** Keep Slakoth in the party. This route has Rock
+   Smash rocks.
+   - **Winstrate family**, optional. Victor stands outside the house and asks to battle.
+     Four battles follow back to back with no healing between them, so heal first. Lose
+     one and the whole set restarts from Victor. Afterward, talk to Victoria inside for
+     the Macho Brace.
+   - Four more trainers on this stretch, one Pokemon each: Tyron (Sandshrew 19), Celina
+     (Roselia 18), Bianca (Shroomish 18), Hayden (Numel 18). Wingull takes Sandshrew and
+     Numel. Kate's Ember takes Roselia and Shroomish.
+3. **The desert blocks the way north.** Without Go-Goggles the sandstorm pushes you back.
+   Turn west at the Route 112 sign.
+4. **Route 112 → Fiery Path → Route 112 north → Route 111 north → Route 113 → Fallarbor
+   → Route 114 → Meteor Falls.** Team Magma blocks the Route 112 cable car for now.
    - Route 111 north has **TM43 Secret Power**, which unlocks Secret Bases.
    - Route 113 is the ash route. Take the **Soot Sack** from the Glass Workshop.
    - Fallarbor has the **Move Reminder**, one Heart Scale per move. Kadabra buys Recover
      back here.
+
+### Winstrate family
+
+| # | Trainer | Team | Send |
+|---|---|---|---|
+| 1 | Victor | Taillow 16, Zigzagoon 16, both with Oran Berries | Graveler. Rock Throw on Taillow, Magnitude on Zigzagoon |
+| 2 | Victoria | Roselia 17 with an Oran Berry. Mega Drain, Stun Spore, Poison Sting, Growth | Kate's Ember, 2x. Mega Drain is 4x on Graveler |
+| 3 | Vivi | Marill 15, Shroomish 15, Numel 15 | Kadabra on Marill. Kate's Ember on Shroomish. Wingull's Water Gun on Numel, 4x |
+| 4 | Vicky | Meditite 18. Hi Jump Kick, Meditate, Confusion, Detect | Wingull's Wing Attack, 2x. Hi Jump Kick is 0.5x on Wingull |
+
+- Keep Wingull off Marill. Marill knows Rollout, which is 2x on Flying.
+- Keep Graveler and Makuhita off Meditite. Hi Jump Kick is 2x on Graveler and Confusion
+  is 2x on Makuhita. Pure Power doubles Meditite's Attack.
+- Roselia and Shroomish both know Stun Spore. Give Kate a Cheri Berry.
+- Macho Brace doubles EV gains and halves Speed. Leave it in the bag.
 
 ### Locked, come back later
 
@@ -45,16 +61,15 @@ Game data: [reference.md](reference.md).
 |---|---|---|---|---|---|
 | 1 | Kate | Combusken | 18 | Ember, Double Kick, Rock Tomb | — |
 | 2 | Kadabra | Kadabra | 18 | Confusion, Flash, Teleport, Thief | nothing |
-| 3 | Tylo | Taillow | 17 | Steel Wing, Wing Attack, Quick Attack, Peck | — |
+| 3 | Slakoth | Slakoth | 6 | Scratch, Yawn, Cut, Rock Smash | — |
 | 4 | Makuhita | Makuhita | 17 | Vital Throw, Arm Thrust, Bulk Up | — |
 | 5 | Graveler | Graveler | 26 | Magnitude, Rock Throw, Tackle, Defense Curl | Quick Claw |
 | 6 | GAT | Wingull | 15 | Wing Attack, Water Gun, Supersonic, Growl | Exp. Share |
 
-Boxed: Slakoth lv6, Electrike.
+Boxed: Tylo (Taillow) lv17, Electrike.
 
-**Slakoth is the only Cut and Rock Smash carrier.** Pull it from the PC when a tree or
-boulder blocks you. Box Taillow to make room: Pelipper learns both Fly and Surf, so
-Taillow's long-term job is already covered.
+**Slakoth carries Cut and Rock Smash.** Keep it in the party through Route 111. Taillow
+stays boxed, since Pelipper learns both Fly and Surf.
 
 ## Gym 4: Flannery, Lavaridge
 
@@ -84,8 +99,10 @@ Gym trainers: Slugma 22-23, Numel 23, one Kecleon 23, one Meditite 23.
 | TM34 Shock Wave | Electrike, when you train it |
 | PP Up | Makuhita's Vital Throw, 10 PP to 12 |
 | Rare Candy | Hold. Spend it at Makuhita 23 to reach Hariyama |
-| Cheri Berry x4, Leppa Berry x2 | Spare |
-| Full Heal, Revive, Elixir | Bag |
+| Cheri Berry x4 | One on Kate before the Winstrates. Rest spare |
+| Leppa Berry x2 | Spare |
+| HM04 Strength | Slakoth, after gym 4. Strength doesn't work outside battle before then |
+| Full Heal, Revive, Elixir, Max Ether | Bag |
 | Guard Spec., Dire Hit | Skip |
 | Nanab Berry x9 | Nothing until the Pokeblock Case |
 
