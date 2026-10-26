@@ -13,6 +13,8 @@ Game data: [reference.md](reference.md).
 ## Route ahead
 
 1. **Mauville.** Heal. No bike yet? Rydel's Cycles gives one free. Take the Mach Bike.
+   Register it to SELECT: Bag → Key Items → Mach Bike → Register. SELECT then gets you on
+   and off. Only one item can be registered at a time.
 2. **Route 111, north out of Mauville.** Keep Slakoth in the party. This route has Rock
    Smash rocks.
    - **Winstrate family**, optional. Victor stands outside the house and asks to battle.
